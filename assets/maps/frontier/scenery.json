@@ -1,0 +1,300 @@
+{
+  "texture": "scenery.png",
+  "objects": [
+    {
+      "name": "pine-north",
+      "region": [
+        2,
+        2,
+        77,
+        107
+      ],
+      "x": 12,
+      "y": 2211,
+      "width": 77,
+      "height": 107,
+      "depthY": 2220
+    },
+    {
+      "name": "pine-west",
+      "region": [
+        83,
+        2,
+        77,
+        103
+      ],
+      "x": -46,
+      "y": 469,
+      "width": 77,
+      "height": 103,
+      "depthY": 480
+    },
+    {
+      "name": "oak-west",
+      "region": [
+        164,
+        2,
+        69,
+        75
+      ],
+      "x": 106,
+      "y": 511,
+      "width": 69,
+      "height": 75,
+      "depthY": 518
+    },
+    {
+      "name": "pine-middle",
+      "region": [
+        237,
+        2,
+        71,
+        129
+      ],
+      "x": 166,
+      "y": 519,
+      "width": 71,
+      "height": 129,
+      "depthY": 528
+    },
+    {
+      "name": "oak-back",
+      "region": [
+        312,
+        2,
+        71,
+        83
+      ],
+      "x": 198,
+      "y": 587,
+      "width": 71,
+      "height": 83,
+      "depthY": 598
+    },
+    {
+      "name": "pine-back",
+      "region": [
+        387,
+        2,
+        63,
+        89
+      ],
+      "x": 132,
+      "y": 573,
+      "width": 63,
+      "height": 89,
+      "depthY": 582
+    },
+    {
+      "name": "pine-small",
+      "region": [
+        454,
+        2,
+        47,
+        81
+      ],
+      "x": 230,
+      "y": 489,
+      "width": 47,
+      "height": 81,
+      "depthY": 498
+    },
+    {
+      "name": "pine-east",
+      "region": [
+        505,
+        2,
+        49,
+        71
+      ],
+      "x": 276,
+      "y": 545,
+      "width": 49,
+      "height": 71,
+      "depthY": 556
+    },
+    {
+      "name": "palms-oasis-west",
+      "region": [
+        558,
+        2,
+        89,
+        125
+      ],
+      "x": 614,
+      "y": 2183,
+      "width": 89,
+      "height": 125,
+      "depthY": 2202
+    },
+    {
+      "name": "palms-oasis-middle",
+      "region": [
+        651,
+        2,
+        77,
+        93
+      ],
+      "x": 676,
+      "y": 2151,
+      "width": 77,
+      "height": 93,
+      "depthY": 2162
+    },
+    {
+      "name": "palm-oasis-top",
+      "region": [
+        732,
+        2,
+        59,
+        77
+      ],
+      "x": 718,
+      "y": 2207,
+      "width": 59,
+      "height": 77,
+      "depthY": 2216
+    },
+    {
+      "name": "palms-oasis-east",
+      "region": [
+        795,
+        2,
+        87,
+        97
+      ],
+      "x": 848,
+      "y": 2163,
+      "width": 87,
+      "height": 97,
+      "depthY": 2182
+    },
+    {
+      "name": "palms-oasis-south",
+      "region": [
+        886,
+        2,
+        81,
+        83
+      ],
+      "x": 834,
+      "y": 2105,
+      "width": 81,
+      "height": 83,
+      "depthY": 2114
+    },
+    {
+      "name": "palms-northeast",
+      "region": [
+        2,
+        135,
+        79,
+        99
+      ],
+      "x": 970,
+      "y": 2177,
+      "width": 79,
+      "height": 99,
+      "depthY": 2196
+    },
+    {
+      "name": "palms-edge-top",
+      "region": [
+        85,
+        135,
+        95,
+        97
+      ],
+      "x": 1000,
+      "y": 1989,
+      "width": 95,
+      "height": 97,
+      "depthY": 2002
+    },
+    {
+      "name": "palms-east",
+      "region": [
+        184,
+        135,
+        75,
+        95
+      ],
+      "x": 1026,
+      "y": 1837,
+      "width": 75,
+      "height": 95,
+      "depthY": 1854
+    },
+    {
+      "name": "palms-crossroad",
+      "region": [
+        263,
+        135,
+        77,
+        97
+      ],
+      "x": 600,
+      "y": 1947,
+      "width": 77,
+      "height": 97,
+      "depthY": 1966
+    },
+    {
+      "name": "palms-dunes",
+      "region": [
+        344,
+        135,
+        81,
+        95
+      ],
+      "x": 670,
+      "y": 1327,
+      "width": 81,
+      "height": 95,
+      "depthY": 1348
+    },
+    {
+      "name": "palms-east-middle",
+      "region": [
+        429,
+        135,
+        79,
+        79
+      ],
+      "x": 1022,
+      "y": 1595,
+      "width": 79,
+      "height": 79,
+      "depthY": 1614
+    },
+    {
+      "name": "palms-east-south",
+      "region": [
+        512,
+        135,
+        67,
+        87
+      ],
+      "x": 1028,
+      "y": 1297,
+      "width": 67,
+      "height": 87,
+      "depthY": 1324
+    },
+    {
+      "name": "pyramid",
+      "region": [
+        583,
+        135,
+        221,
+        201
+      ],
+      "x": 656,
+      "y": 1743,
+      "width": 221,
+      "height": 201,
+      "depthY": 1774
+    }
+  ],
+  "effects": []
+}

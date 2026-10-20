@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+        <title>Pixel Tanks: Steel Frontier — demo</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <style>
+            body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #000;
+                height: 100vh;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+            }
+            #canvas {
+                border: none;
+            }
+        </style>
+    </head>
+    <body oncontextmenu="return false">
+        <div>
+            <canvas id="canvas"></canvas>
+        </div>
+        <script>
+            async function start() {
+                main(["0.7.4"])
+            }
+            window.addEventListener("load", start);
+        </script>
+        <script type="text/javascript" charset="utf-8" src="pixel-tanks.js"></script>
+    <!--
+  Вставляется в сгенерированный index.html задачей :html:dist.
+
+  Портретной вёрстки в игре нет (Android — landscape-only), а браузер на телефоне
+  открывается в любой ориентации. Поэтому: при первом касании пробуем полный экран
+  + блокировку landscape (работает в Chrome/Android), а если браузер не даёт
+  (iOS Safari, десктоп в узком окне) — показываем подсказку «поверни устройство»
+  поверх канваса. На десктопе и в альбомной ориентации оверлей скрыт.
+-->
+<style>
+  #rotate-hint {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 10;
+    background: #0f0f14;
+    color: #eee;
+    font: 600 18px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+  }
+  #rotate-hint span { max-width: 18em; }
+  #rotate-hint b { display: block; font-size: 40px; margin-bottom: 16px; }
+  @media (orientation: portrait) and (pointer: coarse) {
+    #rotate-hint { display: flex; }
+  }
+</style>
+<div id="rotate-hint" role="alert">
+  <span><b>⟳</b>Поверните устройство горизонтально<br>Rotate your device to landscape</span>
+</div>
+<script>
+  (function () {
+    // Блокировка ориентации разрешена только из полноэкранного режима и только
+    // по жесту пользователя. Пробуем один раз; отказ браузера — не ошибка,
+    // подсказка выше остаётся единственным средством.
+    var tried = false;
+    function lockLandscape() {
+      if (tried) return;
+      tried = true;
+      var el = document.documentElement;
+      var fs = el.requestFullscreen || el.webkitRequestFullscreen;
+      if (!fs || !screen.orientation || !screen.orientation.lock) return;
+      Promise.resolve(fs.call(el))
+        .then(function () { return screen.orientation.lock('landscape'); })
+        .catch(function () { /* браузер не разрешил — работаем как есть */ });
+    }
+    if (matchMedia('(pointer: coarse)').matches) {
+      window.addEventListener('pointerdown', lockLandscape, { once: true });
+      window.addEventListener('touchend', lockLandscape, { once: true });
+    }
+  })();
+</script>
+</body>
+</html>

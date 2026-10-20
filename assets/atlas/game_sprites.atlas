@@ -1,0 +1,5115 @@
+
+game_sprites.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+brick_block_1/chassis_000
+  rotate: false
+  xy: 775, 1773
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+brick_block_2/chassis_000
+  rotate: false
+  xy: 1, 741
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+brick_cube/chassis_000
+  rotate: false
+  xy: 259, 999
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+brick_cube/chassis_090
+  rotate: false
+  xy: 259, 483
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+brick_cube/chassis_180
+  rotate: false
+  xy: 1549, 1515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+brick_cube/chassis_270
+  rotate: false
+  xy: 1291, 483
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bullet_2
+  rotate: false
+  xy: 1291, 225
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_000
+  rotate: false
+  xy: 1, 1
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_022_5
+  rotate: false
+  xy: 673, 1
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_045
+  rotate: false
+  xy: 1807, 1807
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_067_5
+  rotate: false
+  xy: 1807, 1135
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_090
+  rotate: false
+  xy: 1291, 259
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_112_5
+  rotate: false
+  xy: 897, 1
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_135
+  rotate: false
+  xy: 1549, 517
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_157_5
+  rotate: false
+  xy: 1807, 911
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_180
+  rotate: false
+  xy: 225, 1
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_202_5
+  rotate: false
+  xy: 1121, 1
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_225
+  rotate: false
+  xy: 1807, 1583
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_247_5
+  rotate: false
+  xy: 1807, 687
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_270
+  rotate: false
+  xy: 449, 1
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_292_5
+  rotate: false
+  xy: 1345, 35
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_315
+  rotate: false
+  xy: 1807, 1359
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_fat_desert/chassis_337_5
+  rotate: false
+  xy: 1773, 463
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_000
+  rotate: false
+  xy: 1515, 259
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_000
+  rotate: false
+  xy: 1719, 259
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_000
+  rotate: false
+  xy: 1791, 37
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_000
+  rotate: false
+  xy: 1569, 37
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald/chassis_000
+  rotate: false
+  xy: 517, 1515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald/chassis_090
+  rotate: false
+  xy: 1, 225
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald/chassis_180
+  rotate: false
+  xy: 1291, 1257
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald/chassis_270
+  rotate: false
+  xy: 1033, 225
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_gray/chassis_000
+  rotate: false
+  xy: 259, 1773
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_gray/chassis_090
+  rotate: false
+  xy: 1, 483
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_gray/chassis_180
+  rotate: false
+  xy: 1291, 1515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_gray/chassis_270
+  rotate: false
+  xy: 1291, 999
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_sentinel/chassis_000
+  rotate: false
+  xy: 1, 1515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_sentinel/chassis_090
+  rotate: false
+  xy: 1033, 1773
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_sentinel/chassis_180
+  rotate: false
+  xy: 1033, 1257
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_sentinel/chassis_270
+  rotate: false
+  xy: 1033, 741
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_v1/chassis_000
+  rotate: false
+  xy: 259, 1257
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_v1/chassis_090
+  rotate: false
+  xy: 1291, 1773
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_v1/chassis_180
+  rotate: false
+  xy: 1033, 999
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_v1/chassis_270
+  rotate: false
+  xy: 1549, 999
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_green/chassis_000
+  rotate: false
+  xy: 517, 1773
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_green/chassis_090
+  rotate: false
+  xy: 775, 1257
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_green/chassis_180
+  rotate: false
+  xy: 517, 483
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_green/chassis_270
+  rotate: false
+  xy: 1033, 483
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_sand/chassis_000
+  rotate: false
+  xy: 1, 1257
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_sand/chassis_090
+  rotate: false
+  xy: 259, 741
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_sand/chassis_180
+  rotate: false
+  xy: 1549, 1773
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_sand/chassis_270
+  rotate: false
+  xy: 1549, 1257
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_white/chassis_000
+  rotate: false
+  xy: 1, 1773
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_white/chassis_090
+  rotate: false
+  xy: 775, 1515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_white/chassis_180
+  rotate: false
+  xy: 775, 999
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_neon_white/chassis_270
+  rotate: false
+  xy: 775, 483
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_enemy/chassis_000
+  rotate: false
+  xy: 259, 1515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_enemy/chassis_090
+  rotate: false
+  xy: 517, 999
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_enemy/chassis_180
+  rotate: false
+  xy: 259, 225
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_enemy/chassis_270
+  rotate: false
+  xy: 775, 225
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_player/chassis_000
+  rotate: false
+  xy: 1, 999
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_player/chassis_045
+  rotate: false
+  xy: 517, 1257
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_player/chassis_090
+  rotate: false
+  xy: 1033, 1515
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_player/chassis_135
+  rotate: false
+  xy: 517, 741
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_player/chassis_180
+  rotate: false
+  xy: 775, 741
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_player/chassis_225
+  rotate: false
+  xy: 517, 225
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_player/chassis_270
+  rotate: false
+  xy: 1291, 741
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_player/chassis_315
+  rotate: false
+  xy: 1549, 741
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+game_sprites2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+tank_sprites/pz_secret_two_gans_I_desert/chassis_000
+  rotate: false
+  xy: 1, 1555
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_022_5
+  rotate: false
+  xy: 1111, 889
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_045
+  rotate: false
+  xy: 223, 1333
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_067_5
+  rotate: false
+  xy: 889, 445
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_090
+  rotate: false
+  xy: 667, 1555
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_112_5
+  rotate: false
+  xy: 889, 223
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_135
+  rotate: false
+  xy: 889, 1555
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_157_5
+  rotate: false
+  xy: 1111, 223
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_180
+  rotate: false
+  xy: 889, 1333
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_202_5
+  rotate: false
+  xy: 1555, 445
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_225
+  rotate: false
+  xy: 667, 889
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_247_5
+  rotate: false
+  xy: 1777, 223
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_270
+  rotate: false
+  xy: 223, 223
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_315
+  rotate: false
+  xy: 1555, 1555
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_000
+  rotate: false
+  xy: 1, 1333
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_022_5
+  rotate: false
+  xy: 1555, 1333
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_045
+  rotate: false
+  xy: 667, 1777
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_067_5
+  rotate: false
+  xy: 1333, 889
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_090
+  rotate: false
+  xy: 1, 667
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_112_5
+  rotate: false
+  xy: 1333, 667
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_135
+  rotate: false
+  xy: 1, 445
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_157_5
+  rotate: false
+  xy: 1555, 667
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_180
+  rotate: false
+  xy: 1333, 1777
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_202_5
+  rotate: false
+  xy: 1333, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_225
+  rotate: false
+  xy: 1111, 1333
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_270
+  rotate: false
+  xy: 667, 667
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_315
+  rotate: false
+  xy: 223, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_000
+  rotate: false
+  xy: 223, 1777
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_022_5
+  rotate: false
+  xy: 1333, 1111
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_045
+  rotate: false
+  xy: 445, 1555
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_067_5
+  rotate: false
+  xy: 1111, 667
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_090
+  rotate: false
+  xy: 889, 1777
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_112_5
+  rotate: false
+  xy: 1111, 445
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_135
+  rotate: false
+  xy: 1111, 1777
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_157_5
+  rotate: false
+  xy: 1333, 445
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_180
+  rotate: false
+  xy: 1111, 1555
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_202_5
+  rotate: false
+  xy: 1777, 667
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_225
+  rotate: false
+  xy: 889, 1111
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_247_5
+  rotate: false
+  xy: 1777, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_270
+  rotate: false
+  xy: 445, 445
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_315
+  rotate: false
+  xy: 1777, 1777
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_022_5
+  rotate: false
+  xy: 667, 445
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_045
+  rotate: false
+  xy: 445, 1777
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_067_5
+  rotate: false
+  xy: 445, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_090
+  rotate: false
+  xy: 223, 1111
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_112_5
+  rotate: false
+  xy: 1777, 1333
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_135
+  rotate: false
+  xy: 445, 1111
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_157_5
+  rotate: false
+  xy: 1777, 1111
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_180
+  rotate: false
+  xy: 445, 889
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_202_5
+  rotate: false
+  xy: 1111, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_225
+  rotate: false
+  xy: 223, 445
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_247_5
+  rotate: false
+  xy: 1777, 445
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_270
+  rotate: false
+  xy: 1555, 1777
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_315
+  rotate: false
+  xy: 1111, 1111
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_022_5
+  rotate: false
+  xy: 445, 223
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_045
+  rotate: false
+  xy: 223, 1555
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_067_5
+  rotate: false
+  xy: 1777, 1555
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_090
+  rotate: false
+  xy: 1, 889
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_112_5
+  rotate: false
+  xy: 1555, 1111
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_135
+  rotate: false
+  xy: 223, 889
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_157_5
+  rotate: false
+  xy: 1555, 889
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_180
+  rotate: false
+  xy: 223, 667
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_202_5
+  rotate: false
+  xy: 1777, 889
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_225
+  rotate: false
+  xy: 1, 223
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_247_5
+  rotate: false
+  xy: 1555, 223
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_270
+  rotate: false
+  xy: 1333, 1555
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_315
+  rotate: false
+  xy: 889, 889
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_000
+  rotate: false
+  xy: 1, 1777
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_022_5
+  rotate: false
+  xy: 889, 667
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_045
+  rotate: false
+  xy: 1, 1111
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_067_5
+  rotate: false
+  xy: 667, 223
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_090
+  rotate: false
+  xy: 445, 1333
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_112_5
+  rotate: false
+  xy: 667, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_135
+  rotate: false
+  xy: 667, 1333
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_157_5
+  rotate: false
+  xy: 889, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_180
+  rotate: false
+  xy: 667, 1111
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_202_5
+  rotate: false
+  xy: 1333, 223
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_225
+  rotate: false
+  xy: 445, 667
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_247_5
+  rotate: false
+  xy: 1555, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_270
+  rotate: false
+  xy: 1, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_315
+  rotate: false
+  xy: 1333, 1333
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+
+game_sprites3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+tank_sprites/hetzer_desert/chassis_000
+  rotate: false
+  xy: 667, 1549
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_022_5
+  rotate: false
+  xy: 887, 1109
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_045
+  rotate: false
+  xy: 1, 661
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_067_5
+  rotate: false
+  xy: 1107, 1331
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_090
+  rotate: false
+  xy: 445, 1105
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_112_5
+  rotate: false
+  xy: 1107, 1111
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_135
+  rotate: false
+  xy: 1109, 1771
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_157_5
+  rotate: false
+  xy: 1547, 1551
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_180
+  rotate: false
+  xy: 1329, 1771
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_202_5
+  rotate: false
+  xy: 1547, 1331
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_225
+  rotate: false
+  xy: 1549, 1771
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_247_5
+  rotate: false
+  xy: 1547, 1111
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_270
+  rotate: false
+  xy: 1769, 1771
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_292_5
+  rotate: false
+  xy: 1767, 1111
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_315
+  rotate: false
+  xy: 887, 1549
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_desert/chassis_337_5
+  rotate: false
+  xy: 221, 441
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_000
+  rotate: false
+  xy: 889, 1771
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_022_5
+  rotate: false
+  xy: 1107, 1551
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_045
+  rotate: false
+  xy: 223, 883
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_067_5
+  rotate: false
+  xy: 1327, 1551
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_090
+  rotate: false
+  xy: 667, 1329
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_112_5
+  rotate: false
+  xy: 1327, 1331
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_135
+  rotate: false
+  xy: 1, 441
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_157_5
+  rotate: false
+  xy: 1327, 1111
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_180
+  rotate: false
+  xy: 1, 221
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_202_5
+  rotate: false
+  xy: 1767, 1551
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_225
+  rotate: false
+  xy: 1, 1
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_247_5
+  rotate: false
+  xy: 1767, 1331
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_270
+  rotate: false
+  xy: 667, 1109
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_292_5
+  rotate: false
+  xy: 221, 661
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_315
+  rotate: false
+  xy: 887, 1329
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/hetzer_gray/chassis_337_5
+  rotate: false
+  xy: 221, 221
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_000
+  rotate: false
+  xy: 1319, 893
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_045
+  rotate: false
+  xy: 879, 455
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_090
+  rotate: false
+  xy: 1313, 19
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_000
+  rotate: false
+  xy: 883, 891
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_045
+  rotate: false
+  xy: 441, 231
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_090
+  rotate: false
+  xy: 1315, 455
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_000
+  rotate: false
+  xy: 665, 891
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_045
+  rotate: false
+  xy: 441, 449
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_090
+  rotate: false
+  xy: 1315, 673
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_135
+  rotate: false
+  xy: 1749, 21
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_292_5
+  rotate: false
+  xy: 223, 1547
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert/chassis_337_5
+  rotate: false
+  xy: 1, 881
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_247_5
+  rotate: false
+  xy: 1, 1769
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_292_5
+  rotate: false
+  xy: 1, 1103
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_desert_turret/chassis_337_5
+  rotate: false
+  xy: 445, 1325
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_292_5
+  rotate: false
+  xy: 445, 1769
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray/chassis_337_5
+  rotate: false
+  xy: 223, 1103
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_292_5
+  rotate: false
+  xy: 223, 1769
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_gray_turret/chassis_337_5
+  rotate: false
+  xy: 445, 1547
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_292_5
+  rotate: false
+  xy: 1, 1547
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green/chassis_337_5
+  rotate: false
+  xy: 223, 1325
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_292_5
+  rotate: false
+  xy: 1, 1325
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_I_green_turret/chassis_337_5
+  rotate: false
+  xy: 667, 1769
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_000
+  rotate: false
+  xy: 1537, 893
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_045
+  rotate: false
+  xy: 1097, 455
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_090
+  rotate: false
+  xy: 1533, 675
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_000
+  rotate: false
+  xy: 221, 3
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_045
+  rotate: false
+  xy: 1097, 673
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_090
+  rotate: false
+  xy: 877, 19
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_135
+  rotate: false
+  xy: 1751, 239
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_000
+  rotate: false
+  xy: 1755, 893
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_045
+  rotate: false
+  xy: 659, 237
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_090
+  rotate: false
+  xy: 1533, 457
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_000
+  rotate: false
+  xy: 439, 3
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_045
+  rotate: false
+  xy: 877, 237
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_090
+  rotate: false
+  xy: 1751, 675
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_000
+  rotate: false
+  xy: 443, 885
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_045
+  rotate: false
+  xy: 443, 667
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_090
+  rotate: false
+  xy: 1095, 19
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_135
+  rotate: false
+  xy: 1531, 19
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_000
+  rotate: false
+  xy: 1101, 891
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_045
+  rotate: false
+  xy: 661, 455
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_090
+  rotate: false
+  xy: 1313, 237
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_000
+  rotate: false
+  xy: 661, 673
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_045
+  rotate: false
+  xy: 1095, 237
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_090
+  rotate: false
+  xy: 1751, 457
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_000
+  rotate: false
+  xy: 879, 673
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_045
+  rotate: false
+  xy: 659, 19
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_090
+  rotate: false
+  xy: 1533, 239
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+
+game_sprites4.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+tank_sprites/jagdpanther_desert/chassis_022_5
+  rotate: false
+  xy: 1309, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_067_5
+  rotate: false
+  xy: 1309, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_112_5
+  rotate: false
+  xy: 1745, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_135
+  rotate: false
+  xy: 219, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_180
+  rotate: false
+  xy: 655, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_225
+  rotate: false
+  xy: 655, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_270
+  rotate: false
+  xy: 1527, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_315
+  rotate: false
+  xy: 437, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_022_5
+  rotate: false
+  xy: 873, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_067_5
+  rotate: false
+  xy: 873, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_112_5
+  rotate: false
+  xy: 1745, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_135
+  rotate: false
+  xy: 1, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_180
+  rotate: false
+  xy: 219, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_225
+  rotate: false
+  xy: 219, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_270
+  rotate: false
+  xy: 1091, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_315
+  rotate: false
+  xy: 1745, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_022_5
+  rotate: false
+  xy: 655, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_067_5
+  rotate: false
+  xy: 1745, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_112_5
+  rotate: false
+  xy: 1527, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_180
+  rotate: false
+  xy: 1, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_225
+  rotate: false
+  xy: 1, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_270
+  rotate: false
+  xy: 873, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_315
+  rotate: false
+  xy: 1527, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_022_5
+  rotate: false
+  xy: 1527, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_067_5
+  rotate: false
+  xy: 1527, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_112_5
+  rotate: false
+  xy: 1745, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_135
+  rotate: false
+  xy: 1, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_180
+  rotate: false
+  xy: 873, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_225
+  rotate: false
+  xy: 873, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_270
+  rotate: false
+  xy: 1, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_315
+  rotate: false
+  xy: 655, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_022_5
+  rotate: false
+  xy: 1745, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_067_5
+  rotate: false
+  xy: 1309, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_112_5
+  rotate: false
+  xy: 1745, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_180
+  rotate: false
+  xy: 437, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_225
+  rotate: false
+  xy: 873, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_270
+  rotate: false
+  xy: 437, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_315
+  rotate: false
+  xy: 1091, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_022_5
+  rotate: false
+  xy: 1745, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_067_5
+  rotate: false
+  xy: 1745, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_135
+  rotate: false
+  xy: 219, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_180
+  rotate: false
+  xy: 1, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_225
+  rotate: false
+  xy: 1091, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_270
+  rotate: false
+  xy: 219, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_315
+  rotate: false
+  xy: 873, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_022_5
+  rotate: false
+  xy: 655, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_067_5
+  rotate: false
+  xy: 1091, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_135
+  rotate: false
+  xy: 437, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_180
+  rotate: false
+  xy: 219, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_225
+  rotate: false
+  xy: 1309, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_270
+  rotate: false
+  xy: 437, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_315
+  rotate: false
+  xy: 1091, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_022_5
+  rotate: false
+  xy: 437, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_067_5
+  rotate: false
+  xy: 1527, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_112_5
+  rotate: false
+  xy: 1309, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_180
+  rotate: false
+  xy: 655, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_225
+  rotate: false
+  xy: 1091, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_270
+  rotate: false
+  xy: 655, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_315
+  rotate: false
+  xy: 1309, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_022_5
+  rotate: false
+  xy: 1091, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_067_5
+  rotate: false
+  xy: 1091, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_112_5
+  rotate: false
+  xy: 1527, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_135
+  rotate: false
+  xy: 1, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_180
+  rotate: false
+  xy: 437, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_225
+  rotate: false
+  xy: 437, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_270
+  rotate: false
+  xy: 1309, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_315
+  rotate: false
+  xy: 219, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_022_5
+  rotate: false
+  xy: 873, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_067_5
+  rotate: false
+  xy: 1309, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_135
+  rotate: false
+  xy: 1, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_180
+  rotate: false
+  xy: 437, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_225
+  rotate: false
+  xy: 1, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_270
+  rotate: false
+  xy: 655, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_315
+  rotate: false
+  xy: 1309, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_022_5
+  rotate: false
+  xy: 1091, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_067_5
+  rotate: false
+  xy: 1527, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_135
+  rotate: false
+  xy: 219, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_180
+  rotate: false
+  xy: 655, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_225
+  rotate: false
+  xy: 219, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_270
+  rotate: false
+  xy: 873, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_315
+  rotate: false
+  xy: 1527, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+
+game_sprites5.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+tank_sprites/jagdpanther_desert/chassis_157_5
+  rotate: false
+  xy: 655, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_202_5
+  rotate: false
+  xy: 1091, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_247_5
+  rotate: false
+  xy: 655, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_292_5
+  rotate: false
+  xy: 1309, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdpanther_desert/chassis_337_5
+  rotate: false
+  xy: 437, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_157_5
+  rotate: false
+  xy: 219, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_202_5
+  rotate: false
+  xy: 655, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_247_5
+  rotate: false
+  xy: 219, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_292_5
+  rotate: false
+  xy: 873, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green/chassis_337_5
+  rotate: false
+  xy: 1527, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_157_5
+  rotate: false
+  xy: 1, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_202_5
+  rotate: false
+  xy: 437, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_247_5
+  rotate: false
+  xy: 1, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_292_5
+  rotate: false
+  xy: 655, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_500_green_turret/chassis_337_5
+  rotate: false
+  xy: 1309, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_000
+  rotate: false
+  xy: 655, 3
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_022_5
+  rotate: false
+  xy: 1305, 7
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_045
+  rotate: false
+  xy: 1091, 439
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_067_5
+  rotate: false
+  xy: 1741, 231
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_090
+  rotate: false
+  xy: 1527, 875
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_112_5
+  rotate: false
+  xy: 1523, 9
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_135
+  rotate: false
+  xy: 1745, 879
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_180
+  rotate: false
+  xy: 1089, 221
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_225
+  rotate: false
+  xy: 1307, 439
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_270
+  rotate: false
+  xy: 1525, 657
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_315
+  rotate: false
+  xy: 1743, 663
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_000
+  rotate: false
+  xy: 1745, 1311
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_022_5
+  rotate: false
+  xy: 1741, 447
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_045
+  rotate: false
+  xy: 873, 221
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_067_5
+  rotate: false
+  xy: 1523, 225
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_090
+  rotate: false
+  xy: 1309, 657
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_112_5
+  rotate: false
+  xy: 1739, 15
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_135
+  rotate: false
+  xy: 1745, 1095
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_180
+  rotate: false
+  xy: 871, 3
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_225
+  rotate: false
+  xy: 1087, 5
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_270
+  rotate: false
+  xy: 1305, 223
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_315
+  rotate: false
+  xy: 1523, 441
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_157_5
+  rotate: false
+  xy: 1, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_202_5
+  rotate: false
+  xy: 1, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_247_5
+  rotate: false
+  xy: 873, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_292_5
+  rotate: false
+  xy: 1527, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert/chassis_337_5
+  rotate: false
+  xy: 655, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_157_5
+  rotate: false
+  xy: 219, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_202_5
+  rotate: false
+  xy: 1, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_247_5
+  rotate: false
+  xy: 1091, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_292_5
+  rotate: false
+  xy: 219, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_p1_desert_turret/chassis_337_5
+  rotate: false
+  xy: 873, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_112_5
+  rotate: false
+  xy: 1, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_157_5
+  rotate: false
+  xy: 219, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_202_5
+  rotate: false
+  xy: 219, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_247_5
+  rotate: false
+  xy: 1091, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_292_5
+  rotate: false
+  xy: 1745, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert/chassis_337_5
+  rotate: false
+  xy: 873, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_112_5
+  rotate: false
+  xy: 1, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_157_5
+  rotate: false
+  xy: 437, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_202_5
+  rotate: false
+  xy: 437, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_247_5
+  rotate: false
+  xy: 1309, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_292_5
+  rotate: false
+  xy: 219, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_desert_turret/chassis_337_5
+  rotate: false
+  xy: 1091, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_157_5
+  rotate: false
+  xy: 437, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_202_5
+  rotate: false
+  xy: 219, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_247_5
+  rotate: false
+  xy: 1309, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_292_5
+  rotate: false
+  xy: 437, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray/chassis_337_5
+  rotate: false
+  xy: 1091, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_157_5
+  rotate: false
+  xy: 437, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_202_5
+  rotate: false
+  xy: 873, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_247_5
+  rotate: false
+  xy: 437, 655
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_292_5
+  rotate: false
+  xy: 1091, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark/chassis_337_5
+  rotate: false
+  xy: 1745, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_112_5
+  rotate: false
+  xy: 219, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_157_5
+  rotate: false
+  xy: 655, 1527
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_202_5
+  rotate: false
+  xy: 655, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_247_5
+  rotate: false
+  xy: 1527, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_292_5
+  rotate: false
+  xy: 437, 219
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_dark_turret/chassis_337_5
+  rotate: false
+  xy: 1309, 873
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_112_5
+  rotate: false
+  xy: 1, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_157_5
+  rotate: false
+  xy: 873, 1745
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_202_5
+  rotate: false
+  xy: 873, 1309
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_247_5
+  rotate: false
+  xy: 1, 1
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_292_5
+  rotate: false
+  xy: 655, 437
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+tank_sprites/tiger_gray_turret/chassis_337_5
+  rotate: false
+  xy: 1527, 1091
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+
+game_sprites6.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+tank_sprites/kv_1000_desert/chassis_000
+  rotate: false
+  xy: 217, 1073
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_022_5
+  rotate: false
+  xy: 1289, 1079
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_045
+  rotate: false
+  xy: 1, 429
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_067_5
+  rotate: false
+  xy: 1717, 865
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_090
+  rotate: false
+  xy: 215, 857
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_112_5
+  rotate: false
+  xy: 1285, 221
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_135
+  rotate: false
+  xy: 429, 859
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_157_5
+  rotate: false
+  xy: 1499, 221
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_180
+  rotate: false
+  xy: 645, 1075
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_225
+  rotate: false
+  xy: 1719, 1507
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_270
+  rotate: false
+  xy: 1719, 1293
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_315
+  rotate: false
+  xy: 857, 647
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_000
+  rotate: false
+  xy: 865, 1721
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_022_5
+  rotate: false
+  xy: 1073, 649
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_045
+  rotate: false
+  xy: 1507, 1721
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_067_5
+  rotate: false
+  xy: 1071, 5
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_090
+  rotate: false
+  xy: 215, 215
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_112_5
+  rotate: false
+  xy: 1715, 651
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_135
+  rotate: false
+  xy: 429, 217
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_157_5
+  rotate: false
+  xy: 1713, 9
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_180
+  rotate: false
+  xy: 1077, 1507
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_225
+  rotate: false
+  xy: 1077, 1293
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_270
+  rotate: false
+  xy: 643, 217
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_315
+  rotate: false
+  xy: 857, 5
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_000
+  rotate: false
+  xy: 433, 1289
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_022_5
+  rotate: false
+  xy: 1503, 1079
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_045
+  rotate: false
+  xy: 1293, 1721
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_067_5
+  rotate: false
+  xy: 1071, 433
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_090
+  rotate: false
+  xy: 215, 643
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_112_5
+  rotate: false
+  xy: 1285, 7
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_135
+  rotate: false
+  xy: 429, 645
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_157_5
+  rotate: false
+  xy: 1499, 7
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_180
+  rotate: false
+  xy: 863, 1505
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_225
+  rotate: false
+  xy: 645, 861
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_270
+  rotate: false
+  xy: 643, 645
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_315
+  rotate: false
+  xy: 857, 433
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_000
+  rotate: false
+  xy: 649, 1505
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_022_5
+  rotate: false
+  xy: 1717, 1079
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_045
+  rotate: false
+  xy: 1, 215
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_067_5
+  rotate: false
+  xy: 1071, 219
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_090
+  rotate: false
+  xy: 215, 429
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_112_5
+  rotate: false
+  xy: 1501, 651
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_135
+  rotate: false
+  xy: 429, 431
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_157_5
+  rotate: false
+  xy: 1713, 223
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_180
+  rotate: false
+  xy: 861, 1291
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_225
+  rotate: false
+  xy: 861, 1077
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_270
+  rotate: false
+  xy: 643, 431
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_315
+  rotate: false
+  xy: 857, 219
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_000
+  rotate: false
+  xy: 1, 643
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_022_5
+  rotate: false
+  xy: 1289, 865
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_045
+  rotate: false
+  xy: 1, 1
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_067_5
+  rotate: false
+  xy: 1287, 649
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_090
+  rotate: false
+  xy: 215, 1
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_112_5
+  rotate: false
+  xy: 1501, 437
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_135
+  rotate: false
+  xy: 429, 3
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_180
+  rotate: false
+  xy: 1291, 1507
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_225
+  rotate: false
+  xy: 1291, 1293
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_270
+  rotate: false
+  xy: 643, 3
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_315
+  rotate: false
+  xy: 1075, 1077
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_000
+  rotate: false
+  xy: 1, 857
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_022_5
+  rotate: false
+  xy: 1073, 863
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_045
+  rotate: false
+  xy: 1079, 1721
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_067_5
+  rotate: false
+  xy: 1503, 865
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_090
+  rotate: false
+  xy: 1721, 1721
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_112_5
+  rotate: false
+  xy: 1285, 435
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_135
+  rotate: false
+  xy: 431, 1073
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_157_5
+  rotate: false
+  xy: 1715, 437
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_180
+  rotate: false
+  xy: 647, 1289
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_225
+  rotate: false
+  xy: 1505, 1507
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_270
+  rotate: false
+  xy: 1505, 1293
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_315
+  rotate: false
+  xy: 859, 861
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_157_5
+  rotate: false
+  xy: 1, 1503
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_202_5
+  rotate: false
+  xy: 1, 1287
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_247_5
+  rotate: false
+  xy: 433, 1719
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_292_5
+  rotate: false
+  xy: 217, 1287
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green/chassis_337_5
+  rotate: false
+  xy: 649, 1719
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_157_5
+  rotate: false
+  xy: 1, 1719
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_202_5
+  rotate: false
+  xy: 217, 1719
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_247_5
+  rotate: false
+  xy: 217, 1503
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_292_5
+  rotate: false
+  xy: 1, 1071
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_5_green_turret/chassis_337_5
+  rotate: false
+  xy: 433, 1503
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+
+game_sprites7.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+tank_sprites/chassis_000
+  rotate: false
+  xy: 425, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tank_sprites/chassis_090
+  rotate: false
+  xy: 555, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tank_sprites/chassis_180
+  rotate: false
+  xy: 685, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tank_sprites/chassis_270
+  rotate: false
+  xy: 815, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_000
+  rotate: false
+  xy: 853, 555
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_202_5
+  rotate: false
+  xy: 215, 1619
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_247_5
+  rotate: false
+  xy: 1, 1191
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_292_5
+  rotate: false
+  xy: 857, 1833
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert/chassis_337_5
+  rotate: false
+  xy: 857, 977
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_202_5
+  rotate: false
+  xy: 429, 1619
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_247_5
+  rotate: false
+  xy: 429, 1191
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_292_5
+  rotate: false
+  xy: 643, 1405
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_desert_turret/chassis_337_5
+  rotate: false
+  xy: 215, 977
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_202_5
+  rotate: false
+  xy: 215, 1833
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_247_5
+  rotate: false
+  xy: 215, 1405
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_292_5
+  rotate: false
+  xy: 643, 1619
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green/chassis_337_5
+  rotate: false
+  xy: 1, 977
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_202_5
+  rotate: false
+  xy: 429, 1833
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_247_5
+  rotate: false
+  xy: 215, 1191
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_292_5
+  rotate: false
+  xy: 857, 1619
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_green_turret/chassis_337_5
+  rotate: false
+  xy: 1, 763
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_157_5
+  rotate: false
+  xy: 1, 1833
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_202_5
+  rotate: false
+  xy: 429, 1405
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_247_5
+  rotate: false
+  xy: 643, 1191
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_292_5
+  rotate: false
+  xy: 857, 1405
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter/chassis_337_5
+  rotate: false
+  xy: 215, 763
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_202_5
+  rotate: false
+  xy: 1, 1619
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_247_5
+  rotate: false
+  xy: 1, 1405
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_292_5
+  rotate: false
+  xy: 643, 1833
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/kv_1000_winter_turret/chassis_337_5
+  rotate: false
+  xy: 857, 1191
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_000
+  rotate: false
+  xy: 1071, 1207
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_000
+  rotate: false
+  xy: 1071, 1003
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_000
+  rotate: false
+  xy: 1489, 567
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_000
+  rotate: false
+  xy: 641, 767
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_022_5
+  rotate: false
+  xy: 1707, 1623
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_045
+  rotate: false
+  xy: 641, 555
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_090
+  rotate: false
+  xy: 637, 343
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_135
+  rotate: false
+  xy: 637, 131
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_180
+  rotate: false
+  xy: 1071, 1623
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_225
+  rotate: false
+  xy: 1277, 987
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_270
+  rotate: false
+  xy: 1489, 1199
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_315
+  rotate: false
+  xy: 1697, 563
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_000
+  rotate: false
+  xy: 853, 765
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_045
+  rotate: false
+  xy: 1065, 553
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_090
+  rotate: false
+  xy: 1061, 341
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_135
+  rotate: false
+  xy: 1273, 341
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_180
+  rotate: false
+  xy: 1277, 1199
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_225
+  rotate: false
+  xy: 1277, 563
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_270
+  rotate: false
+  xy: 1495, 1623
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_315
+  rotate: false
+  xy: 1701, 1199
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_000
+  rotate: false
+  xy: 429, 767
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_022_5
+  rotate: false
+  xy: 1707, 1835
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_045
+  rotate: false
+  xy: 213, 551
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_090
+  rotate: false
+  xy: 213, 339
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_135
+  rotate: false
+  xy: 213, 127
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_180
+  rotate: false
+  xy: 1071, 1835
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_225
+  rotate: false
+  xy: 1283, 1411
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_270
+  rotate: false
+  xy: 1697, 139
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_315
+  rotate: false
+  xy: 1489, 775
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_000
+  rotate: false
+  xy: 429, 979
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_022_5
+  rotate: false
+  xy: 1701, 775
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_045
+  rotate: false
+  xy: 1, 551
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_090
+  rotate: false
+  xy: 1, 339
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_135
+  rotate: false
+  xy: 1, 127
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_180
+  rotate: false
+  xy: 1061, 129
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_225
+  rotate: false
+  xy: 1283, 1623
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_270
+  rotate: false
+  xy: 1485, 139
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_315
+  rotate: false
+  xy: 1489, 987
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_000
+  rotate: false
+  xy: 641, 979
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_022_5
+  rotate: false
+  xy: 1707, 1411
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_045
+  rotate: false
+  xy: 1065, 765
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_090
+  rotate: false
+  xy: 849, 343
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_135
+  rotate: false
+  xy: 849, 131
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_180
+  rotate: false
+  xy: 1071, 1411
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_225
+  rotate: false
+  xy: 1277, 775
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_270
+  rotate: false
+  xy: 1495, 1835
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_315
+  rotate: false
+  xy: 1697, 351
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_000
+  rotate: false
+  xy: 429, 555
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_045
+  rotate: false
+  xy: 425, 343
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_090
+  rotate: false
+  xy: 425, 131
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_135
+  rotate: false
+  xy: 1273, 129
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_180
+  rotate: false
+  xy: 1283, 1835
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_225
+  rotate: false
+  xy: 1485, 351
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_270
+  rotate: false
+  xy: 1495, 1411
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_315
+  rotate: false
+  xy: 1701, 987
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+
+game_sprites8.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+tank_sprites/jagdtiger_desert/chassis_000
+  rotate: false
+  xy: 1697, 1699
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_022_5
+  rotate: false
+  xy: 1057, 429
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_045
+  rotate: false
+  xy: 425, 215
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_067_5
+  rotate: false
+  xy: 1269, 641
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_090
+  rotate: false
+  xy: 849, 639
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_112_5
+  rotate: false
+  xy: 1481, 853
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_135
+  rotate: false
+  xy: 1273, 1063
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_157_5
+  rotate: false
+  xy: 1693, 859
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_180
+  rotate: false
+  xy: 1697, 1489
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_202_5
+  rotate: false
+  xy: 1057, 219
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_225
+  rotate: false
+  xy: 423, 3
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_247_5
+  rotate: false
+  xy: 1481, 643
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_270
+  rotate: false
+  xy: 633, 5
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_292_5
+  rotate: false
+  xy: 1691, 439
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_315
+  rotate: false
+  xy: 845, 217
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_desert/chassis_337_5
+  rotate: false
+  xy: 1691, 229
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_022_5
+  rotate: false
+  xy: 1059, 639
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_045
+  rotate: false
+  xy: 213, 3
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_067_5
+  rotate: false
+  xy: 1271, 851
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_090
+  rotate: false
+  xy: 637, 427
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_112_5
+  rotate: false
+  xy: 1483, 1063
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_135
+  rotate: false
+  xy: 1061, 851
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_157_5
+  rotate: false
+  xy: 1695, 1069
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_180
+  rotate: false
+  xy: 1485, 1275
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_202_5
+  rotate: false
+  xy: 845, 7
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_225
+  rotate: false
+  xy: 1697, 1279
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_247_5
+  rotate: false
+  xy: 1269, 431
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_270
+  rotate: false
+  xy: 635, 215
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_292_5
+  rotate: false
+  xy: 1693, 649
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_315
+  rotate: false
+  xy: 847, 427
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/jagdtiger_gray/chassis_337_5
+  rotate: false
+  xy: 1481, 433
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_045
+  rotate: false
+  xy: 1267, 225
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_000
+  rotate: false
+  xy: 1055, 9
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_045
+  rotate: false
+  xy: 1479, 225
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_090
+  rotate: false
+  xy: 1679, 17
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_045
+  rotate: false
+  xy: 1263, 11
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_090
+  rotate: false
+  xy: 1471, 17
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_067_5
+  rotate: false
+  xy: 213, 1485
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_112_5
+  rotate: false
+  xy: 1, 849
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_157_5
+  rotate: false
+  xy: 213, 849
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_202_5
+  rotate: false
+  xy: 213, 637
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_247_5
+  rotate: false
+  xy: 1, 213
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_292_5
+  rotate: false
+  xy: 1273, 1485
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki/chassis_337_5
+  rotate: false
+  xy: 849, 849
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_022_5
+  rotate: false
+  xy: 1, 1697
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_067_5
+  rotate: false
+  xy: 1, 1061
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_112_5
+  rotate: false
+  xy: 425, 1273
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_157_5
+  rotate: false
+  xy: 637, 1273
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_202_5
+  rotate: false
+  xy: 637, 1061
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_247_5
+  rotate: false
+  xy: 425, 637
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_292_5
+  rotate: false
+  xy: 1, 1
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_khaki_turret/chassis_337_5
+  rotate: false
+  xy: 1273, 1273
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_067_5
+  rotate: false
+  xy: 1, 1273
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_112_5
+  rotate: false
+  xy: 637, 1697
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_157_5
+  rotate: false
+  xy: 1, 637
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_202_5
+  rotate: false
+  xy: 1, 425
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_247_5
+  rotate: false
+  xy: 1273, 1697
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_292_5
+  rotate: false
+  xy: 1061, 1273
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green/chassis_337_5
+  rotate: false
+  xy: 637, 637
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_067_5
+  rotate: false
+  xy: 213, 1697
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_112_5
+  rotate: false
+  xy: 425, 1485
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_157_5
+  rotate: false
+  xy: 849, 1697
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_202_5
+  rotate: false
+  xy: 1061, 1697
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_247_5
+  rotate: false
+  xy: 1061, 1485
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_292_5
+  rotate: false
+  xy: 849, 1061
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_emerald_light_green_turret/chassis_337_5
+  rotate: false
+  xy: 425, 425
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_067_5
+  rotate: false
+  xy: 425, 1697
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_112_5
+  rotate: false
+  xy: 213, 1061
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_157_5
+  rotate: false
+  xy: 425, 1061
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_202_5
+  rotate: false
+  xy: 425, 849
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_247_5
+  rotate: false
+  xy: 213, 425
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_292_5
+  rotate: false
+  xy: 1485, 1697
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player/chassis_337_5
+  rotate: false
+  xy: 1061, 1061
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_022_5
+  rotate: false
+  xy: 1, 1485
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_067_5
+  rotate: false
+  xy: 213, 1273
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_112_5
+  rotate: false
+  xy: 637, 1485
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_157_5
+  rotate: false
+  xy: 849, 1485
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_202_5
+  rotate: false
+  xy: 849, 1273
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_247_5
+  rotate: false
+  xy: 637, 849
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_292_5
+  rotate: false
+  xy: 213, 213
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+tank_sprites/tank_player_turret/chassis_337_5
+  rotate: false
+  xy: 1485, 1485
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+
+game_sprites9.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+tank_sprites/pz_secret_two_gans_II_desert/chassis_022_5
+  rotate: false
+  xy: 825, 805
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_045
+  rotate: false
+  xy: 1249, 1841
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_067_5
+  rotate: false
+  xy: 1237, 817
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_090
+  rotate: false
+  xy: 625, 1009
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_112_5
+  rotate: false
+  xy: 825, 601
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_135
+  rotate: false
+  xy: 1, 181
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_157_5
+  rotate: false
+  xy: 613, 185
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_180
+  rotate: false
+  xy: 1245, 1429
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_202_5
+  rotate: false
+  xy: 1237, 613
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_225
+  rotate: false
+  xy: 1653, 1637
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_247_5
+  rotate: false
+  xy: 1437, 409
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_270
+  rotate: false
+  xy: 205, 385
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_292_5
+  rotate: false
+  xy: 1645, 413
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_315
+  rotate: false
+  xy: 409, 185
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert/chassis_337_5
+  rotate: false
+  xy: 1025, 1
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_022_5
+  rotate: false
+  xy: 617, 597
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_067_5
+  rotate: false
+  xy: 1241, 1021
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_090
+  rotate: false
+  xy: 209, 593
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_112_5
+  rotate: false
+  xy: 1653, 1025
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_135
+  rotate: false
+  xy: 1041, 1429
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_157_5
+  rotate: false
+  xy: 1645, 821
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_180
+  rotate: false
+  xy: 1041, 1225
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_202_5
+  rotate: false
+  xy: 817, 189
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_225
+  rotate: false
+  xy: 1449, 1637
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_247_5
+  rotate: false
+  xy: 1029, 409
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_270
+  rotate: false
+  xy: 1653, 1433
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_292_5
+  rotate: false
+  xy: 1229, 205
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_315
+  rotate: false
+  xy: 413, 593
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_desert_turret/chassis_337_5
+  rotate: false
+  xy: 1841, 209
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_022_5
+  rotate: false
+  xy: 829, 1009
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_045
+  rotate: false
+  xy: 1041, 1633
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_067_5
+  rotate: false
+  xy: 1033, 817
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_090
+  rotate: false
+  xy: 417, 801
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_112_5
+  rotate: false
+  xy: 617, 393
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_135
+  rotate: false
+  xy: 1453, 1841
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_157_5
+  rotate: false
+  xy: 1645, 617
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_180
+  rotate: false
+  xy: 1245, 1633
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_202_5
+  rotate: false
+  xy: 1033, 613
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_225
+  rotate: false
+  xy: 1449, 1433
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_247_5
+  rotate: false
+  xy: 1233, 409
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_270
+  rotate: false
+  xy: 1653, 1229
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_292_5
+  rotate: false
+  xy: 1433, 205
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_315
+  rotate: false
+  xy: 409, 389
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray/chassis_337_5
+  rotate: false
+  xy: 1841, 5
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_022_5
+  rotate: false
+  xy: 1037, 1021
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_045
+  rotate: false
+  xy: 1, 385
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_067_5
+  rotate: false
+  xy: 1449, 1025
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_090
+  rotate: false
+  xy: 833, 1217
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_112_5
+  rotate: false
+  xy: 1441, 817
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_135
+  rotate: false
+  xy: 1657, 1841
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_157_5
+  rotate: false
+  xy: 821, 393
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_180
+  rotate: false
+  xy: 1245, 1225
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_202_5
+  rotate: false
+  xy: 1441, 613
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_225
+  rotate: false
+  xy: 1449, 1229
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_247_5
+  rotate: false
+  xy: 1025, 205
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_270
+  rotate: false
+  xy: 205, 181
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_292_5
+  rotate: false
+  xy: 1637, 205
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_315
+  rotate: false
+  xy: 621, 801
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/pz_secret_two_gans_II_gray_turret/chassis_337_5
+  rotate: false
+  xy: 1229, 1
+  size: 202, 202
+  orig: 202, 202
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_022_5
+  rotate: false
+  xy: 209, 1213
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_067_5
+  rotate: false
+  xy: 625, 1629
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_112_5
+  rotate: false
+  xy: 1, 797
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_135
+  rotate: false
+  xy: 1, 1629
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_157_5
+  rotate: false
+  xy: 417, 1213
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_180
+  rotate: false
+  xy: 1, 1421
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_202_5
+  rotate: false
+  xy: 833, 1629
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_225
+  rotate: false
+  xy: 417, 1837
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_247_5
+  rotate: false
+  xy: 1, 589
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_270
+  rotate: false
+  xy: 209, 1421
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_292_5
+  rotate: false
+  xy: 417, 1005
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_315
+  rotate: false
+  xy: 625, 1837
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_desert/chassis_337_5
+  rotate: false
+  xy: 833, 1421
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_022_5
+  rotate: false
+  xy: 1, 1005
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_067_5
+  rotate: false
+  xy: 417, 1421
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_112_5
+  rotate: false
+  xy: 833, 1837
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_135
+  rotate: false
+  xy: 1, 1837
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_157_5
+  rotate: false
+  xy: 209, 1005
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_180
+  rotate: false
+  xy: 209, 1837
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_202_5
+  rotate: false
+  xy: 625, 1421
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_225
+  rotate: false
+  xy: 209, 1629
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_247_5
+  rotate: false
+  xy: 1041, 1837
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_270
+  rotate: false
+  xy: 1, 1213
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_292_5
+  rotate: false
+  xy: 209, 797
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_315
+  rotate: false
+  xy: 417, 1629
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+tank_sprites/sturmtiger_gray/chassis_337_5
+  rotate: false
+  xy: 625, 1213
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
