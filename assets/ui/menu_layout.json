@@ -1,0 +1,1846 @@
+{
+  "version": 1,
+  "viewport": {
+    "width": 960,
+    "height": 540,
+    "origin": "bottom-left"
+  },
+  "screens": {
+    "main": {
+      "label": "Главное меню",
+      "elements": [
+        {
+          "id": "logo_top",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 444.5,
+          "width": 441,
+          "height": 56.5,
+          "visible": true
+        },
+        {
+          "id": "logo_bottom",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 388,
+          "width": 441,
+          "height": 50.5,
+          "visible": true
+        },
+        {
+          "id": "start",
+          "kind": "text",
+          "key": "menu.start_game",
+          "anchor": "center",
+          "x": 523,
+          "y": 267.96,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "options",
+          "kind": "text",
+          "key": "menu.options",
+          "anchor": "center",
+          "x": 523,
+          "y": 207.56,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "exit",
+          "kind": "text",
+          "key": "menu.exit",
+          "anchor": "center",
+          "x": 523,
+          "y": 147.16,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "version",
+          "kind": "text",
+          "key": "sample.version",
+          "anchor": "left",
+          "x": 8,
+          "y": 505.12,
+          "maxWidth": 300,
+          "lineStep": 34,
+          "color": "muted",
+          "sourceWrap": false
+        }
+      ],
+      "axis": 523
+    },
+    "difficulty": {
+      "label": "Выбор сложности",
+      "elements": [
+        {
+          "id": "logo_top",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 444.5,
+          "width": 441,
+          "height": 56.5,
+          "visible": true
+        },
+        {
+          "id": "logo_bottom",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 388,
+          "width": 441,
+          "height": 50.5,
+          "visible": true
+        },
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "difficulty.title",
+          "anchor": "center",
+          "x": 523,
+          "y": 348,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "color": "title",
+          "sourceWrap": true
+        },
+        {
+          "id": "very_easy",
+          "kind": "text",
+          "key": "difficulty.very_easy",
+          "anchor": "center",
+          "x": 523,
+          "y": 278.32,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "easy",
+          "kind": "text",
+          "key": "difficulty.easy",
+          "anchor": "center",
+          "x": 523,
+          "y": 235.44,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "medium",
+          "kind": "text",
+          "key": "difficulty.medium",
+          "anchor": "center",
+          "x": 523,
+          "y": 192.56,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "hard",
+          "kind": "text",
+          "key": "difficulty.hard",
+          "anchor": "center",
+          "x": 523,
+          "y": 149.68,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "very_hard",
+          "kind": "text",
+          "key": "difficulty.very_hard",
+          "anchor": "center",
+          "x": 523,
+          "y": 106.8,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "back",
+          "kind": "text",
+          "key": "common.back",
+          "anchor": "left",
+          "x": 53.88,
+          "y": 22,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "arrow": true
+        }
+      ],
+      "axis": 523
+    },
+    "level": {
+      "label": "Выбор уровня",
+      "elements": [
+        {
+          "id": "logo_top",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 444.5,
+          "width": 441,
+          "height": 56.5,
+          "visible": true
+        },
+        {
+          "id": "logo_bottom",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 388,
+          "width": 441,
+          "height": 50.5,
+          "visible": true
+        },
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "level.title",
+          "anchor": "center",
+          "x": 523,
+          "y": 355,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "color": "title",
+          "sourceWrap": true
+        },
+        {
+          "id": "name_0",
+          "kind": "text",
+          "key": "level.frontier",
+          "anchor": "center",
+          "x": 206,
+          "y": 157.12,
+          "maxWidth": 310,
+          "lineStep": 32.879999999999995,
+          "stripNumber": true,
+          "sourceWrap": true
+        },
+        {
+          "id": "status_0",
+          "kind": "text",
+          "key": "level.status.completed",
+          "anchor": "center",
+          "x": 206,
+          "y": 83,
+          "maxWidth": 310,
+          "lineStep": 32.879999999999995,
+          "sourceWrap": true
+        },
+        {
+          "id": "number_0",
+          "kind": "text",
+          "key": "sample.number",
+          "anchor": "left",
+          "x": 53,
+          "y": 307.12,
+          "maxWidth": 100,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "literal": "1"
+        },
+        {
+          "id": "name_1",
+          "kind": "text",
+          "key": "level.broken_crossing",
+          "anchor": "center",
+          "x": 566,
+          "y": 157.12,
+          "maxWidth": 310,
+          "lineStep": 32.879999999999995,
+          "stripNumber": true,
+          "sourceWrap": true
+        },
+        {
+          "id": "status_1",
+          "kind": "text",
+          "key": "level.status.in_progress",
+          "anchor": "center",
+          "x": 566,
+          "y": 83,
+          "maxWidth": 310,
+          "lineStep": 32.879999999999995,
+          "sourceWrap": true
+        },
+        {
+          "id": "number_1",
+          "kind": "text",
+          "key": "sample.number",
+          "anchor": "left",
+          "x": 413,
+          "y": 307.12,
+          "maxWidth": 100,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "literal": "2"
+        },
+        {
+          "id": "name_2",
+          "kind": "text",
+          "key": "level.ambush_canyon",
+          "anchor": "center",
+          "x": 926,
+          "y": 157.12,
+          "maxWidth": 310,
+          "lineStep": 32.879999999999995,
+          "stripNumber": true,
+          "sourceWrap": true
+        },
+        {
+          "id": "status_2",
+          "kind": "text",
+          "key": "level.status.locked",
+          "anchor": "center",
+          "x": 926,
+          "y": 83,
+          "maxWidth": 310,
+          "lineStep": 32.879999999999995,
+          "sourceWrap": true
+        },
+        {
+          "id": "number_2",
+          "kind": "text",
+          "key": "sample.number",
+          "anchor": "left",
+          "x": 773,
+          "y": 307.12,
+          "maxWidth": 100,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "literal": "3"
+        },
+        {
+          "id": "name_3",
+          "kind": "text",
+          "key": "level.dead_village",
+          "anchor": "center",
+          "x": 1286,
+          "y": 157.12,
+          "maxWidth": 310,
+          "lineStep": 32.879999999999995,
+          "stripNumber": true,
+          "sourceWrap": true
+        },
+        {
+          "id": "status_3",
+          "kind": "text",
+          "key": "level.status.full_version",
+          "anchor": "center",
+          "x": 1286,
+          "y": 83,
+          "maxWidth": 310,
+          "lineStep": 32.879999999999995,
+          "sourceWrap": true
+        },
+        {
+          "id": "number_3",
+          "kind": "text",
+          "key": "sample.number",
+          "anchor": "left",
+          "x": 1133,
+          "y": 307.12,
+          "maxWidth": 100,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "literal": "4"
+        },
+        {
+          "id": "hint",
+          "kind": "text",
+          "key": "level.hint.locked",
+          "anchor": "center",
+          "x": 523,
+          "y": 48,
+          "maxWidth": 500,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "args": [
+            "1"
+          ]
+        },
+        {
+          "id": "back",
+          "kind": "text",
+          "key": "common.back",
+          "anchor": "left",
+          "x": 53.88,
+          "y": 22,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "arrow": true
+        }
+      ],
+      "axis": 523
+    },
+    "settings": {
+      "label": "Настройки",
+      "elements": [
+        {
+          "id": "logo_top",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 508,
+          "width": 234.16,
+          "height": 30,
+          "visible": false
+        },
+        {
+          "id": "logo_bottom",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 474,
+          "width": 262,
+          "height": 30,
+          "visible": false
+        },
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "settings.title",
+          "anchor": "center",
+          "x": 523,
+          "y": 488,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "color": "title",
+          "sourceWrap": true
+        },
+        {
+          "id": "sound",
+          "kind": "text",
+          "key": "settings.sound",
+          "anchor": "left",
+          "x": 72,
+          "y": 442,
+          "maxWidth": 360,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "sound_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 694,
+          "y": 442,
+          "maxWidth": 246,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "music",
+          "kind": "text",
+          "key": "settings.music",
+          "anchor": "left",
+          "x": 72,
+          "y": 395,
+          "maxWidth": 360,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "music_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 694,
+          "y": 395,
+          "maxWidth": 246,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "scale",
+          "kind": "text",
+          "key": "settings.scale",
+          "anchor": "left",
+          "x": 72,
+          "y": 348,
+          "maxWidth": 360,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "scale_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 694,
+          "y": 348,
+          "maxWidth": 246,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "move_control",
+          "kind": "text",
+          "key": "settings.move_control",
+          "anchor": "left",
+          "x": 72,
+          "y": 301,
+          "maxWidth": 360,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "move_control_value",
+          "kind": "text",
+          "key": "settings.analog",
+          "anchor": "left",
+          "x": 694,
+          "y": 301,
+          "maxWidth": 246,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "control_size",
+          "kind": "text",
+          "key": "settings.control_size",
+          "anchor": "left",
+          "x": 72,
+          "y": 254,
+          "maxWidth": 360,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "control_size_value",
+          "kind": "text",
+          "key": "settings.size.medium",
+          "anchor": "left",
+          "x": 694,
+          "y": 254,
+          "maxWidth": 246,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "turret_size",
+          "kind": "text",
+          "key": "settings.turret_size",
+          "anchor": "left",
+          "x": 72,
+          "y": 207,
+          "maxWidth": 360,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "turret_size_value",
+          "kind": "text",
+          "key": "settings.size.medium",
+          "anchor": "left",
+          "x": 694,
+          "y": 207,
+          "maxWidth": 246,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "sound_setup",
+          "kind": "text",
+          "key": "settings.sound_setup",
+          "anchor": "left",
+          "x": 72,
+          "y": 160,
+          "maxWidth": 360,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "sound_setup_value",
+          "kind": "text",
+          "key": "common.open",
+          "anchor": "left",
+          "x": 694,
+          "y": 160,
+          "maxWidth": 246,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "controller",
+          "kind": "text",
+          "key": "settings.controller",
+          "anchor": "left",
+          "x": 72,
+          "y": 113,
+          "maxWidth": 360,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "controller_value",
+          "kind": "text",
+          "key": "common.open",
+          "anchor": "left",
+          "x": 694,
+          "y": 113,
+          "maxWidth": 246,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "language",
+          "kind": "text",
+          "key": "settings.language",
+          "anchor": "left",
+          "x": 72,
+          "y": 66,
+          "maxWidth": 360,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "language_value",
+          "kind": "text",
+          "key": "sample.language",
+          "anchor": "left",
+          "x": 694,
+          "y": 66,
+          "maxWidth": 246,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "back",
+          "kind": "text",
+          "key": "common.back",
+          "anchor": "left",
+          "x": 53.88,
+          "y": 22,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "arrow": true
+        }
+      ],
+      "axis": 523
+    },
+    "pause": {
+      "label": "Пауза",
+      "elements": [
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "pause.title",
+          "anchor": "center",
+          "x": 523,
+          "y": 352,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "color": "title",
+          "sourceWrap": false
+        },
+        {
+          "id": "resume",
+          "kind": "text",
+          "key": "pause.resume",
+          "anchor": "center",
+          "x": 523,
+          "y": 288,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "settings",
+          "kind": "text",
+          "key": "pause.settings",
+          "anchor": "center",
+          "x": 523,
+          "y": 224,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "exit",
+          "kind": "text",
+          "key": "pause.exit_to_menu",
+          "anchor": "center",
+          "x": 523,
+          "y": 160,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        }
+      ],
+      "axis": 523
+    },
+    "confirm": {
+      "label": "Подтверждение выхода",
+      "elements": [
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "pause.exit_to_menu",
+          "anchor": "center",
+          "x": 523,
+          "y": 352,
+          "maxWidth": 596,
+          "lineStep": 34,
+          "color": "danger",
+          "sourceWrap": false
+        },
+        {
+          "id": "warning",
+          "kind": "text",
+          "key": "pause.progress_lost",
+          "anchor": "center",
+          "x": 523,
+          "y": 290,
+          "maxWidth": 596,
+          "lineStep": 34,
+          "color": "title",
+          "sourceWrap": false
+        },
+        {
+          "id": "no",
+          "kind": "text",
+          "key": "common.no",
+          "anchor": "center",
+          "x": 418.65,
+          "y": 174,
+          "maxWidth": 230,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "yes",
+          "kind": "text",
+          "key": "common.yes",
+          "anchor": "center",
+          "x": 627.35,
+          "y": 174,
+          "maxWidth": 230,
+          "lineStep": 34,
+          "sourceWrap": false
+        }
+      ],
+      "axis": 523
+    },
+    "result": {
+      "label": "Результат боя",
+      "elements": [
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "result.victory",
+          "anchor": "center",
+          "x": 523,
+          "y": 396,
+          "maxWidth": 860,
+          "lineStep": 34,
+          "color": "title",
+          "sourceWrap": false
+        },
+        {
+          "id": "label_0",
+          "kind": "text",
+          "key": "result.tanks_killed",
+          "anchor": "left",
+          "x": 245,
+          "y": 300,
+          "maxWidth": 310,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "value_0",
+          "kind": "text",
+          "key": "sample.kills",
+          "anchor": "right",
+          "x": 801,
+          "y": 300,
+          "maxWidth": 200,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "label_1",
+          "kind": "text",
+          "key": "result.time",
+          "anchor": "left",
+          "x": 245,
+          "y": 230,
+          "maxWidth": 310,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "value_1",
+          "kind": "text",
+          "key": "sample.time",
+          "anchor": "right",
+          "x": 801,
+          "y": 230,
+          "maxWidth": 200,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "label_2",
+          "kind": "text",
+          "key": "result.score",
+          "anchor": "left",
+          "x": 245,
+          "y": 160,
+          "maxWidth": 310,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "value_2",
+          "kind": "text",
+          "key": "sample.score",
+          "anchor": "right",
+          "x": 801,
+          "y": 160,
+          "maxWidth": 200,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "primary",
+          "kind": "text",
+          "key": "result.next",
+          "anchor": "center",
+          "x": 715,
+          "y": 64,
+          "maxWidth": 345.6,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "menu",
+          "kind": "text",
+          "key": "result.menu",
+          "anchor": "center",
+          "x": 331,
+          "y": 64,
+          "maxWidth": 345.6,
+          "lineStep": 34,
+          "sourceWrap": false
+        }
+      ],
+      "axis": 523
+    },
+    "sound": {
+      "label": "Звуки",
+      "elements": [
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "sound.title",
+          "anchor": "center",
+          "x": 523,
+          "y": 386,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "color": "title",
+          "sourceWrap": true
+        },
+        {
+          "id": "shot",
+          "kind": "text",
+          "key": "sound.shot",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": 290.0894,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "shot_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": 290.0894,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "turret",
+          "kind": "text",
+          "key": "sound.turret",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": 240.6776,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "turret_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": 240.6776,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "engine",
+          "kind": "text",
+          "key": "sound.engine",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": 191.2659,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "engine_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": 191.2659,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "idle",
+          "kind": "text",
+          "key": "sound.idle",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": 141.8541,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "idle_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": 141.8541,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "explosion",
+          "kind": "text",
+          "key": "sound.explosion",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": 92.4424,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "explosion_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": 92.4424,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "hit",
+          "kind": "text",
+          "key": "sound.hit",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": 43.0306,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "hit_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": 43.0306,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "ricochet",
+          "kind": "text",
+          "key": "sound.ricochet",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": -6.3812,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "ricochet_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": -6.3812,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "brick",
+          "kind": "text",
+          "key": "sound.brick",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": -55.7929,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "brick_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": -55.7929,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "bump",
+          "kind": "text",
+          "key": "sound.bump",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": -105.2047,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "bump_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": -105.2047,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "aim",
+          "kind": "text",
+          "key": "sound.aim",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": -154.6165,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "aim_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": -154.6165,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "ui",
+          "kind": "text",
+          "key": "sound.ui",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": -204.0282,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "ui_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": -204.0282,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "ambient",
+          "kind": "text",
+          "key": "sound.ambient",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": -253.44,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "ambient_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": -253.44,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "menu_music",
+          "kind": "text",
+          "key": "sound.menu_music",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": -302.8518,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "menu_music_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": -302.8518,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "jingles",
+          "kind": "text",
+          "key": "sound.jingles",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": -352.2635,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "jingles_value",
+          "kind": "text",
+          "key": "sample.percent",
+          "anchor": "left",
+          "x": 776.4706,
+          "y": -352.2635,
+          "maxWidth": 150,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "scrollGroup": "sound"
+        },
+        {
+          "id": "back",
+          "kind": "text",
+          "key": "common.back",
+          "anchor": "left",
+          "x": 84.7059,
+          "y": 28.2353,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "arrow": true
+        }
+      ],
+      "axis": 523
+    },
+    "controller": {
+      "label": "Геймпад",
+      "elements": [
+        {
+          "id": "logo_top",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 508,
+          "width": 234.16,
+          "height": 30,
+          "visible": true
+        },
+        {
+          "id": "logo_bottom",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 474,
+          "width": 262,
+          "height": 30,
+          "visible": true
+        },
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "controller.title",
+          "anchor": "center",
+          "x": 523,
+          "y": 424,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "color": "title",
+          "sourceWrap": true
+        },
+        {
+          "id": "label_0",
+          "kind": "text",
+          "key": "controller.move_mode",
+          "anchor": "left",
+          "x": 72,
+          "y": 378,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "value_0",
+          "kind": "text",
+          "key": "controller.mode.tank",
+          "anchor": "left",
+          "x": 510.0,
+          "y": 378,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "label_1",
+          "kind": "text",
+          "key": "controller.action.fire",
+          "anchor": "left",
+          "x": 72,
+          "y": 336,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "value_1",
+          "kind": "text",
+          "key": "sample.button",
+          "anchor": "left",
+          "x": 510.0,
+          "y": 336,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "label_2",
+          "kind": "text",
+          "key": "controller.action.pause",
+          "anchor": "left",
+          "x": 72,
+          "y": 294,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "value_2",
+          "kind": "text",
+          "key": "sample.button",
+          "anchor": "left",
+          "x": 510.0,
+          "y": 294,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "label_3",
+          "kind": "text",
+          "key": "controller.action.zoom_in",
+          "anchor": "left",
+          "x": 72,
+          "y": 252,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "value_3",
+          "kind": "text",
+          "key": "sample.button",
+          "anchor": "left",
+          "x": 510.0,
+          "y": 252,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "label_4",
+          "kind": "text",
+          "key": "controller.action.zoom_out",
+          "anchor": "left",
+          "x": 72,
+          "y": 210,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "value_4",
+          "kind": "text",
+          "key": "sample.button",
+          "anchor": "left",
+          "x": 510.0,
+          "y": 210,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "label_5",
+          "kind": "text",
+          "key": "controller.reset",
+          "anchor": "left",
+          "x": 72,
+          "y": 168,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "value_5",
+          "kind": "text",
+          "key": "controller.defaults",
+          "anchor": "left",
+          "x": 510.0,
+          "y": 168,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "hint",
+          "kind": "text",
+          "key": "controller.hint_tank",
+          "anchor": "center",
+          "x": 523,
+          "y": 56,
+          "maxWidth": 790,
+          "lineStep": 34,
+          "sourceWrap": true,
+          "stackFromBottom": true
+        },
+        {
+          "id": "back",
+          "kind": "text",
+          "key": "common.back",
+          "anchor": "left",
+          "x": 53.88,
+          "y": 22,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "arrow": true
+        }
+      ],
+      "axis": 523
+    },
+    "language": {
+      "label": "Язык",
+      "elements": [
+        {
+          "id": "logo_top",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 444.5,
+          "width": 441,
+          "height": 56.5,
+          "visible": true
+        },
+        {
+          "id": "logo_bottom",
+          "kind": "logo",
+          "key": "",
+          "anchor": "center",
+          "x": 523,
+          "y": 388,
+          "width": 441,
+          "height": 50.5,
+          "visible": true
+        },
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "language.title",
+          "anchor": "center",
+          "x": 523,
+          "y": 349.4118,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "color": "title",
+          "sourceWrap": true
+        },
+        {
+          "id": "en",
+          "kind": "text",
+          "key": "native.en",
+          "anchor": "left",
+          "x": 420,
+          "y": 306,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "flag": "en"
+        },
+        {
+          "id": "ru",
+          "kind": "text",
+          "key": "native.ru",
+          "anchor": "left",
+          "x": 420,
+          "y": 42,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "flag": "ru"
+        },
+        {
+          "id": "de",
+          "kind": "text",
+          "key": "native.de",
+          "anchor": "left",
+          "x": 420,
+          "y": 174,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "flag": "de"
+        },
+        {
+          "id": "es",
+          "kind": "text",
+          "key": "native.es",
+          "anchor": "left",
+          "x": 420,
+          "y": 262,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "flag": "es"
+        },
+        {
+          "id": "fr",
+          "kind": "text",
+          "key": "native.fr",
+          "anchor": "left",
+          "x": 420,
+          "y": 130,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "flag": "fr"
+        },
+        {
+          "id": "pt",
+          "kind": "text",
+          "key": "native.pt",
+          "anchor": "left",
+          "x": 420,
+          "y": 218,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "flag": "pt"
+        },
+        {
+          "id": "it",
+          "kind": "text",
+          "key": "native.it",
+          "anchor": "left",
+          "x": 420,
+          "y": 86,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "flag": "it"
+        },
+        {
+          "id": "back",
+          "kind": "text",
+          "key": "common.back",
+          "anchor": "left",
+          "x": 53.88,
+          "y": 22,
+          "maxWidth": 400,
+          "lineStep": 34,
+          "arrow": true
+        }
+      ],
+      "axis": 523
+    },
+    "continue": {
+      "label": "Продолжение боя",
+      "elements": [
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "continue.title",
+          "anchor": "center",
+          "x": 523,
+          "y": 400,
+          "maxWidth": 860,
+          "lineStep": 34,
+          "color": "title",
+          "sourceWrap": false
+        },
+        {
+          "id": "subtitle_0",
+          "kind": "text",
+          "key": "continue.subtitle_1",
+          "anchor": "center",
+          "x": 523,
+          "y": 336,
+          "maxWidth": 850,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "subtitle_1",
+          "kind": "text",
+          "key": "continue.subtitle_2",
+          "anchor": "center",
+          "x": 523,
+          "y": 306,
+          "maxWidth": 850,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "timer",
+          "kind": "text",
+          "key": "sample.timer",
+          "anchor": "center",
+          "x": 523,
+          "y": 176,
+          "maxWidth": 396,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "item_0",
+          "kind": "text",
+          "key": "continue.continue",
+          "anchor": "center",
+          "x": 331,
+          "y": 78,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "caption_0",
+          "kind": "text",
+          "key": "continue.watch_ad",
+          "anchor": "center",
+          "x": 331,
+          "y": 46,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "item_1",
+          "kind": "text",
+          "key": "continue.give_up",
+          "anchor": "center",
+          "x": 715,
+          "y": 78,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "caption_1",
+          "kind": "text",
+          "key": "continue.see_results",
+          "anchor": "center",
+          "x": 715,
+          "y": 46,
+          "maxWidth": 345,
+          "lineStep": 34,
+          "sourceWrap": false
+        },
+        {
+          "id": "loading",
+          "kind": "text",
+          "key": "continue.loading_ad",
+          "anchor": "center",
+          "x": 523,
+          "y": 176,
+          "maxWidth": 800,
+          "lineStep": 34,
+          "sourceWrap": false,
+          "hidden": true
+        }
+      ],
+      "axis": 523
+    },
+    "full_game_finished": {
+      "label": "Демо — пройдено",
+      "axis": 523,
+      "elements": [
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "demo.finished",
+          "x": 523,
+          "y": 420,
+          "anchor": "center",
+          "maxWidth": 900,
+          "lineStep": 34,
+          "color": "title"
+        },
+        {
+          "id": "line1",
+          "kind": "text",
+          "key": "demo.finished_line",
+          "x": 523,
+          "y": 340,
+          "anchor": "center",
+          "maxWidth": 900,
+          "lineStep": 34
+        },
+        {
+          "id": "line2",
+          "kind": "text",
+          "key": "demo.stores_line",
+          "x": 523,
+          "y": 300,
+          "anchor": "center",
+          "maxWidth": 900,
+          "lineStep": 34
+        },
+        {
+          "id": "store_0",
+          "kind": "text",
+          "key": "sample.store_0",
+          "x": 358,
+          "y": 214,
+          "anchor": "center",
+          "maxWidth": 280,
+          "lineStep": 34,
+          "literal": "GOOGLE PLAY"
+        },
+        {
+          "id": "store_1",
+          "kind": "text",
+          "key": "sample.store_1",
+          "x": 758,
+          "y": 214,
+          "anchor": "center",
+          "maxWidth": 280,
+          "lineStep": 34,
+          "literal": "RUSTORE"
+        },
+        {
+          "id": "store_2",
+          "kind": "text",
+          "key": "sample.store_2",
+          "x": 358,
+          "y": 126,
+          "anchor": "center",
+          "maxWidth": 280,
+          "lineStep": 34,
+          "literal": "APPGALLERY"
+        },
+        {
+          "id": "bottom_0",
+          "kind": "text",
+          "key": "result.retry",
+          "x": 363,
+          "y": 64,
+          "anchor": "center",
+          "maxWidth": 345,
+          "lineStep": 34
+        },
+        {
+          "id": "bottom_1",
+          "kind": "text",
+          "key": "result.menu",
+          "x": 683,
+          "y": 64,
+          "anchor": "center",
+          "maxWidth": 345,
+          "lineStep": 34
+        },
+        {
+          "id": "store_3",
+          "kind": "text",
+          "key": "sample.store_0",
+          "x": 758,
+          "y": 126,
+          "anchor": "center",
+          "maxWidth": 280,
+          "lineStep": 34,
+          "literal": "PALMSTORE"
+        }
+      ]
+    },
+    "full_game_locked": {
+      "label": "Демо — полная версия",
+      "axis": 523,
+      "elements": [
+        {
+          "id": "title",
+          "kind": "text",
+          "key": "demo.locked",
+          "x": 523,
+          "y": 420,
+          "anchor": "center",
+          "maxWidth": 900,
+          "lineStep": 34,
+          "color": "title"
+        },
+        {
+          "id": "line1",
+          "kind": "text",
+          "key": "demo.locked_line",
+          "x": 523,
+          "y": 340,
+          "anchor": "center",
+          "maxWidth": 900,
+          "lineStep": 34
+        },
+        {
+          "id": "line2",
+          "kind": "text",
+          "key": "demo.stores_line",
+          "x": 523,
+          "y": 300,
+          "anchor": "center",
+          "maxWidth": 900,
+          "lineStep": 34
+        },
+        {
+          "id": "store_0",
+          "kind": "text",
+          "key": "sample.store_0",
+          "x": 358,
+          "y": 214,
+          "anchor": "center",
+          "maxWidth": 280,
+          "lineStep": 34,
+          "literal": "GOOGLE PLAY"
+        },
+        {
+          "id": "store_1",
+          "kind": "text",
+          "key": "sample.store_1",
+          "x": 758,
+          "y": 214,
+          "anchor": "center",
+          "maxWidth": 280,
+          "lineStep": 34,
+          "literal": "RUSTORE"
+        },
+        {
+          "id": "store_2",
+          "kind": "text",
+          "key": "sample.store_2",
+          "x": 358,
+          "y": 126,
+          "anchor": "center",
+          "maxWidth": 280,
+          "lineStep": 34,
+          "literal": "APPGALLERY"
+        },
+        {
+          "id": "bottom_0",
+          "kind": "text",
+          "key": "common.back",
+          "x": 523,
+          "y": 64,
+          "anchor": "center",
+          "maxWidth": 600,
+          "lineStep": 34
+        },
+        {
+          "id": "store_3",
+          "kind": "text",
+          "key": "sample.store_0",
+          "x": 758,
+          "y": 126,
+          "anchor": "center",
+          "maxWidth": 280,
+          "lineStep": 34,
+          "literal": "PALMSTORE"
+        }
+      ]
+    }
+  }
+}

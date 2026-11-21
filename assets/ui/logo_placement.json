@@ -1,0 +1,86 @@
+{
+  "preferred": "A / logo_cut.png",
+  "coordinate_convention": "x rightwards; y_top downwards; y_bottom for LibGDX",
+  "texture_pixels": [
+    882,
+    214
+  ],
+  "transparent_padding_native": 8,
+  "native_1920x1080": {
+    "x": 537.0,
+    "y_top": 86.0,
+    "width": 882.0,
+    "height": 214.0,
+    "y_bottom": 780.0,
+    "center_x": 978.0,
+    "center_y_top": 193.0,
+    "center_y_bottom": 887.0
+  },
+  "logical_960x540": {
+    "x": 268.5,
+    "y_top": 43.0,
+    "width": 441.0,
+    "height": 107.0,
+    "y_bottom": 390.0,
+    "center_x": 489.0,
+    "center_y_top": 96.5,
+    "center_y_bottom": 443.5
+  },
+  "visible_content_native": {
+    "x": 545.0,
+    "y_top": 94.0,
+    "width": 866.0,
+    "height": 198.0,
+    "y_bottom": 788.0,
+    "center_x": 978.0,
+    "center_y_top": 193.0,
+    "center_y_bottom": 887.0
+  },
+  "visible_content_logical": {
+    "x": 272.5,
+    "y_top": 47.0,
+    "width": 433.0,
+    "height": 99.0,
+    "y_bottom": 394.0,
+    "center_x": 489.0,
+    "center_y_top": 96.5,
+    "center_y_bottom": 443.5
+  },
+  "B_note": "B resized to same texture box; glyph shape and spacing differ.",
+  "split": {
+    "source": "sprite_sources/main_menu/logo_cut.png",
+    "source_sha256": "24c938963bb1356e761d6995ccf7ede566fe79087a2ddac308a2b5adc11fa02f",
+    "alpha_gap_rows": [
+      111,
+      114
+    ],
+    "split_row": 113,
+    "reconstruction_changed_pixels": 0,
+    "layers_original_960x540": {
+      "logo_top": {
+        "x": 489,
+        "y": 440.5,
+        "width": 441.0,
+        "height": 56.5,
+        "source_crop": [
+          0,
+          0,
+          882,
+          113
+        ]
+      },
+      "logo_bottom": {
+        "x": 489,
+        "y": 390.0,
+        "width": 441.0,
+        "height": 50.5,
+        "source_crop": [
+          0,
+          113,
+          882,
+          214
+        ]
+      }
+    }
+  }
+}

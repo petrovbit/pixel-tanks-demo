@@ -1,0 +1,452 @@
+{
+  "version": 1,
+  "units": "screen-px",
+  "centering": "effects",
+  "roles": {
+    "menu": {
+      "order": [
+        "glow",
+        "shadow",
+        "extrusion",
+        "outline2",
+        "outline1",
+        "bevel",
+        "fill"
+      ],
+      "layers": {
+        "fill": {
+          "enabled": true,
+          "gradient": true,
+          "scope": "line",
+          "angle": 90,
+          "mid": 0.58,
+          "color": "#525F62FF",
+          "middle": "#9CA6A5FF",
+          "end": "#D9DBD1FF",
+          "texture": {
+            "enabled": true,
+            "tile": "ui/fonts/textures/blued_steel.png",
+            "mode": "overlay",
+            "opacity": 0.1,
+            "scale": 128,
+            "x": 0,
+            "y": 0
+          },
+          "stops": 3
+        },
+        "bevel": {
+          "enabled": true,
+          "mode": "inner",
+          "angle": 135,
+          "width": 0.65,
+          "light": "#F3F2DAFF",
+          "dark": "#323D40FF"
+        },
+        "outline1": {
+          "enabled": true,
+          "color": "#101815FF",
+          "radius": 1.4,
+          "x": 0,
+          "y": 0,
+          "samples": 8
+        },
+        "outline2": {
+          "enabled": false,
+          "color": "#C29A50FF",
+          "radius": 2,
+          "x": 0,
+          "y": 0,
+          "samples": 8
+        },
+        "extrusion": {
+          "enabled": true,
+          "angle": 315,
+          "depth": 1.4,
+          "steps": 2,
+          "face": "#53605AFF",
+          "bottom": "#172020FF",
+          "stepped": false
+        },
+        "shadow": {
+          "enabled": true,
+          "color": "#060907A6",
+          "x": 1.2,
+          "y": -1.6,
+          "radius": 0,
+          "samples": 8
+        },
+        "glow": {
+          "enabled": true,
+          "color": "#00000000",
+          "radius": 1.7,
+          "mode": "normal",
+          "samples": 4
+        }
+      },
+      "states": {
+        "normal": {},
+        "selected": {
+          "fill": {
+            "color": "#DC4D18FF",
+            "middle": "#FFB840FF",
+            "end": "#FFF8CFFF"
+          },
+          "bevel": {
+            "light": "#FFFAD9FF",
+            "dark": "#9C3115FF"
+          },
+          "glow": {
+            "color": "#FF762080"
+          }
+        },
+        "disabled": {
+          "fill": {
+            "color": "#303C42FF",
+            "middle": "#535F64FF",
+            "end": "#849095FF"
+          },
+          "bevel": {
+            "light": "#A2ADB0FF",
+            "dark": "#202B30FF"
+          },
+          "glow": {
+            "color": "#00000000"
+          }
+        }
+      },
+      "referenceCapHeight": 0
+    },
+    "title": {
+      "order": [
+        "glow",
+        "shadow",
+        "extrusion",
+        "outline2",
+        "outline1",
+        "bevel",
+        "fill"
+      ],
+      "layers": {
+        "fill": {
+          "enabled": true,
+          "gradient": true,
+          "scope": "line",
+          "angle": 90,
+          "mid": 0.58,
+          "color": "#525F62FF",
+          "middle": "#9CA6A5FF",
+          "end": "#D9DBD1FF",
+          "texture": {
+            "enabled": true,
+            "tile": "ui/fonts/textures/blued_steel.png",
+            "mode": "overlay",
+            "opacity": 0.1,
+            "scale": 128,
+            "x": 0,
+            "y": 0
+          },
+          "stops": 3
+        },
+        "bevel": {
+          "enabled": true,
+          "mode": "inner",
+          "angle": 135,
+          "width": 0.65,
+          "light": "#F3F2DAFF",
+          "dark": "#323D40FF"
+        },
+        "outline1": {
+          "enabled": true,
+          "color": "#101815FF",
+          "radius": 1.4,
+          "x": 0,
+          "y": 0,
+          "samples": 8
+        },
+        "outline2": {
+          "enabled": false,
+          "color": "#C29A50FF",
+          "radius": 2,
+          "x": 0,
+          "y": 0,
+          "samples": 8
+        },
+        "extrusion": {
+          "enabled": true,
+          "angle": 315,
+          "depth": 1.4,
+          "steps": 2,
+          "face": "#53605AFF",
+          "bottom": "#172020FF",
+          "stepped": false
+        },
+        "shadow": {
+          "enabled": true,
+          "color": "#060907A6",
+          "x": 1.2,
+          "y": -1.6,
+          "radius": 0,
+          "samples": 8
+        },
+        "glow": {
+          "enabled": true,
+          "color": "#00000000",
+          "radius": 1.7,
+          "mode": "normal",
+          "samples": 4
+        }
+      },
+      "states": {
+        "normal": {},
+        "selected": {
+          "fill": {
+            "color": "#DC4D18FF",
+            "middle": "#FFB840FF",
+            "end": "#FFF8CFFF"
+          },
+          "bevel": {
+            "light": "#FFFAD9FF",
+            "dark": "#9C3115FF"
+          },
+          "glow": {
+            "color": "#FF762080"
+          }
+        },
+        "disabled": {
+          "fill": {
+            "color": "#303C42FF",
+            "middle": "#535F64FF",
+            "end": "#849095FF"
+          },
+          "bevel": {
+            "light": "#A2ADB0FF",
+            "dark": "#202B30FF"
+          },
+          "glow": {
+            "color": "#00000000"
+          }
+        }
+      },
+      "referenceCapHeight": 0
+    },
+    "hud": {
+      "order": [
+        "glow",
+        "shadow",
+        "extrusion",
+        "outline2",
+        "outline1",
+        "bevel",
+        "fill"
+      ],
+      "layers": {
+        "fill": {
+          "enabled": true,
+          "gradient": true,
+          "scope": "line",
+          "angle": 90,
+          "mid": 0.58,
+          "color": "#A2AA9AFF",
+          "middle": "#DEDCC2FF",
+          "end": "#F7EFCDFF",
+          "texture": {
+            "enabled": false,
+            "tile": "ui/fonts/textures/blued_steel.png",
+            "mode": "overlay",
+            "opacity": 0.12,
+            "scale": 128,
+            "x": 0,
+            "y": 0
+          },
+          "stops": 3
+        },
+        "bevel": {
+          "enabled": true,
+          "mode": "inner",
+          "angle": 135,
+          "width": 0.3,
+          "light": "#FFF7DBFF",
+          "dark": "#4B5349FF"
+        },
+        "outline1": {
+          "enabled": true,
+          "color": "#08100EFF",
+          "radius": 1.05,
+          "x": 0,
+          "y": 0,
+          "samples": 8
+        },
+        "outline2": {
+          "enabled": false,
+          "color": "#C29A50FF",
+          "radius": 0.8928571428571429,
+          "x": 0.0,
+          "y": 0.0,
+          "samples": 8
+        },
+        "extrusion": {
+          "enabled": false,
+          "angle": 315,
+          "depth": 0,
+          "steps": 6,
+          "face": "#68705AFF",
+          "bottom": "#121810FF",
+          "stepped": false
+        },
+        "shadow": {
+          "enabled": true,
+          "color": "#060907C0",
+          "x": 0.7,
+          "y": -0.8,
+          "radius": 0,
+          "samples": 8
+        },
+        "glow": {
+          "enabled": false,
+          "color": "#00000000",
+          "radius": 1,
+          "mode": "normal",
+          "samples": 16
+        }
+      },
+      "states": {
+        "normal": {},
+        "selected": {
+          "fill": {
+            "color": "#D98426FF",
+            "middle": "#FFD36AFF",
+            "end": "#FFF5BFFF"
+          },
+          "bevel": {
+            "light": "#FFFAD9FF",
+            "dark": "#835125FF"
+          },
+          "glow": {
+            "color": "#00000000"
+          }
+        },
+        "disabled": {
+          "fill": {
+            "color": "#4D5A5FFF",
+            "middle": "#7E8989FF",
+            "end": "#A4ADA8FF"
+          },
+          "bevel": {
+            "light": "#C4CBC5FF",
+            "dark": "#25312FFF"
+          },
+          "glow": {
+            "color": "#00000000"
+          }
+        }
+      },
+      "referenceCapHeight": 0
+    },
+    "version": {
+      "order": [
+        "glow",
+        "shadow",
+        "extrusion",
+        "outline2",
+        "outline1",
+        "bevel",
+        "fill"
+      ],
+      "layers": {
+        "fill": {
+          "enabled": true,
+          "gradient": false,
+          "scope": "line",
+          "angle": 90,
+          "mid": 0.5,
+          "color": "#F2EEE2FF",
+          "middle": "#F2EEE2FF",
+          "end": "#F2EEE2FF",
+          "texture": {
+            "enabled": false,
+            "tile": "",
+            "mode": "multiply",
+            "opacity": 0.35,
+            "scale": 128,
+            "x": 0,
+            "y": 0
+          },
+          "stops": 2
+        },
+        "bevel": {
+          "enabled": false,
+          "mode": "inner",
+          "angle": 135,
+          "width": 0.3571428571428572,
+          "light": "#FFF4C5FF",
+          "dark": "#49341EFF"
+        },
+        "outline1": {
+          "enabled": true,
+          "color": "#15170FFF",
+          "radius": 0.4411764705882353,
+          "x": 0.0,
+          "y": 0.0,
+          "samples": 8
+        },
+        "outline2": {
+          "enabled": false,
+          "color": "#C29A50FF",
+          "radius": 0.8928571428571429,
+          "x": 0.0,
+          "y": 0.0,
+          "samples": 8
+        },
+        "extrusion": {
+          "enabled": false,
+          "angle": 306.869898,
+          "depth": 0.8823529411764706,
+          "steps": 0,
+          "face": "#34382AFF",
+          "bottom": "#34382AFF",
+          "stepped": true
+        },
+        "shadow": {
+          "enabled": true,
+          "color": "#090B08A0",
+          "x": 0.5294117647058824,
+          "y": -0.7058823529411764,
+          "radius": 0,
+          "samples": 8
+        },
+        "glow": {
+          "enabled": false,
+          "color": "#FFD05A80",
+          "radius": 1.3392857142857144,
+          "mode": "normal",
+          "samples": 16
+        }
+      },
+      "states": {
+        "normal": {},
+        "selected": {
+          "fill": {
+            "color": "#F4BE54FF",
+            "middle": "#F4BE54FF",
+            "end": "#F4BE54FF"
+          }
+        },
+        "disabled": {
+          "fill": {
+            "color": "#99978FFF",
+            "middle": "#99978FFF",
+            "end": "#99978FFF"
+          }
+        }
+      }
+    }
+  },
+  "name": "Раскалённый металл",
+  "presetId": "hot_metal_game",
+  "sourcePresetId": "round2_08_hot_metal",
+  "adaptation": {
+    "menu": "12 normal/disabled, 24 selected passes; two extrusion steps, tight 4-sample glow",
+    "hud": "10 passes; no texture, extrusion or glow, solid outline and narrow inner bevel",
+    "version": "10 passes; original font size and colours"
+  }
+}

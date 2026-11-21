@@ -1,0 +1,23 @@
+reload_ready.ogg — 01_wot_layered_master, layered game-ready mix (0.56 seconds).
+Original recordings are NOT from World of Tanks; WoT-style describes the design reference.
+
+1. Pole Position Production, Sonniss GameAudioGDC 2024, Bundle3of9:
+Pole Position - Artillery Vehicle Bandkanon 1C/Bandkanon 1C - t10 - VAR SFX - Simulated Shell Ejection 1 - MS Decoded - RSM191.wav
+Sonniss GameAudioGDC bundle license v2.0 (effective 2026-08-27; downloaded 2026-10-30).
+https://sonniss.com/gameaudiogdc/
+https://sonniss.com/gdc-bundle-license/
+Commercial synchronization in games and modification permitted; no attribution required.
+No standalone redistribution as sound effects or sample packs; no AI/ML training.
+Copyright in original recording remains Pole Position Production (https://pole.se).
+
+2. FOSSarts, Freesound #741073:
+Diablo 12g pistol 6 inch, open breech, close breech quickly 2
+https://freesound.org/people/FOSSarts/sounds/741073/
+Creative Commons Zero 1.0 Universal (CC0), confirmed on source page 2026-10-30.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Mix provenance and processing: _graphic/pixel_tanks/audio/reload_ready/scripts/build_candidates.py.
+The combined asset retains the Sonniss restrictions; it is NOT CC0 as a whole.
+License verification: 2026-10-30, source HTML and summary in docs/reload-ready-audio.md.
+Original procedural CC0 fallback: tools/ui/reload_ready_synth.ogg;
+generator tools/ui/synthesize_reload.py (unchanged).

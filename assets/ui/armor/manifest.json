@@ -1,0 +1,1941 @@
+{
+  "schema_version": 1,
+  "name": "pixel-tanks-riveted-armor",
+  "status": "battle-hud-integrated-menu-pending",
+  "generator": "built-in GPT Image; isolated alpha components; mechanical nine-patch sizing",
+  "texture_scale": 2,
+  "reference_world": {
+    "width": 960,
+    "height": 540
+  },
+  "split_order": [
+    "left",
+    "right",
+    "top",
+    "bottom"
+  ],
+  "splits_note": "Fixed edge thickness in TEXTURE pixels. No Android .9.png marker. Logical border = splits / 2; multiply again by target viewport units per logical pixel.",
+  "font": {
+    "family": "BattleCityFont",
+    "changed": false
+  },
+  "palette": {
+    "text": "#f4e6be",
+    "selected": "#ffc34b",
+    "disabled": "#888b8d"
+  },
+  "sources": {
+    "widgets.png": {
+      "size_px": [
+        1448,
+        1086
+      ],
+      "sha256": "d3e2a600117d79c4dd52fa30311c518ce390c11568a8673da063b93ea4b3a855"
+    },
+    "controls.png": {
+      "size_px": [
+        1448,
+        1086
+      ],
+      "sha256": "1727f36ec8378c769ec465a7b7183bae6bf31788bf7ce7a4eebf1ae2eb63d3ee"
+    },
+    "icons.png": {
+      "size_px": [
+        1254,
+        1254
+      ],
+      "sha256": "e6e41840f1d4f84ec35cd597e3d175bed913534083bb01ce6ecab53528a7adf3"
+    },
+    "frames.png": {
+      "size_px": [
+        1448,
+        1086
+      ],
+      "sha256": "c86315d49be714599a5f2827f1c8dd1b53db67177ac10d2ccebb1e072dc88791"
+    }
+  },
+  "elements": {
+    "buttons/action_normal": {
+      "region": "buttons/action_normal",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        320.0,
+        72.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "buttons",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        628,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "78782c3e5859e721eb14138974de883d20a3dd8daf1e2e2cb75b571046b7c923"
+    },
+    "buttons/action_pressed": {
+      "region": "buttons/action_pressed",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        320.0,
+        72.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "buttons",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        764,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "ec8e03ba3409fa884ef51dc67b4e35a9c8f680fc44eaded088f62cec35c5a518"
+    },
+    "buttons/action_disabled": {
+      "region": "buttons/action_disabled",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        320.0,
+        72.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "buttons",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        492,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "9a26dd4bdcb2a650815b96e54d71da6e33a6470eabb3b4e566418d4d9189d2e8"
+    },
+    "buttons/action_selected": {
+      "region": "buttons/action_selected",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        320.0,
+        72.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "buttons",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        900,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "5d11e042b62428028cdc592be48f8354622759c43ef611aa0f37f8148d162ba9"
+    },
+    "buttons/control_normal": {
+      "region": "buttons/control_normal",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        72.0,
+        72.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "buttons",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        1172,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "a9be46cb2c3810c5bd93769dbe908ff68a5cd81f064ae3dc0eb241dda8804cdf"
+    },
+    "buttons/control_pressed": {
+      "region": "buttons/control_pressed",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        72.0,
+        72.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "buttons",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        1308,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "f2d8e0be88d6c61ff0d5f89fded3f2330b6a7d568f9bf4cecf3ea85f3feab2de"
+    },
+    "buttons/control_disabled": {
+      "region": "buttons/control_disabled",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        72.0,
+        72.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "buttons",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        1036,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "e1ce9e5dfe3a0f36a2171f79c71897a747f21400ff8e8ee3929c3189998c3f5e"
+    },
+    "buttons/control_selected": {
+      "region": "buttons/control_selected",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        72.0,
+        72.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "buttons",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        1444,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "8e3d1b792b35d669101c5aeaa066eea476bb7fb7a6decc7ace129fdbe1cc036d"
+    },
+    "cards/level_normal": {
+      "region": "cards/level_normal",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        240.0,
+        160.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "cards",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        1716,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "8b69d3fba45b2bf4ea7575ab161860bd65d4eaa97672d83bd58e1ae66100ce10"
+    },
+    "cards/level_pressed": {
+      "region": "cards/level_pressed",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        240.0,
+        160.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "cards",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        1852,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "62898c3c4d6abb1ce2dbab5b58b4890536e69a788fd0edc4c99044d162816594"
+    },
+    "cards/level_disabled": {
+      "region": "cards/level_disabled",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        240.0,
+        160.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "cards",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        1580,
+        1244,
+        128,
+        128
+      ],
+      "rgba_sha256": "d230d657a78106d97f0b90176a65d63cf34a70a02baa346ad192f9325686a8f8"
+    },
+    "cards/level_selected": {
+      "region": "cards/level_selected",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        240.0,
+        160.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "cards",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        4,
+        1444,
+        128,
+        128
+      ],
+      "rgba_sha256": "d7cfb1c4e35514d8b5a020aabe46b1431a8e487ef9e354ca3d067b0e16473f20"
+    },
+    "panels/modal_normal": {
+      "region": "panels/modal_normal",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        512.0,
+        384.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "panels",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        684,
+        1444,
+        128,
+        128
+      ],
+      "rgba_sha256": "5c48f795fefa91cbca52571fe8ad472efaba6c520d12b409dcc5b27ff0eb6006"
+    },
+    "panels/hud_normal": {
+      "region": "panels/hud_normal",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        256.0,
+        80.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "panels",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        276,
+        1444,
+        128,
+        128
+      ],
+      "rgba_sha256": "1185ce2c4a1a15d0a376a55cbbd664e3fc724ebce7ccac809b98e0b11b42f814"
+    },
+    "panels/hud_pressed": {
+      "region": "panels/hud_pressed",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        256.0,
+        80.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "panels",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        412,
+        1444,
+        128,
+        128
+      ],
+      "rgba_sha256": "235b2d4edeef2867a445b2019a8db999f4e4b04fd7af7cb1c35972a14b7d0c5b"
+    },
+    "panels/hud_disabled": {
+      "region": "panels/hud_disabled",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        256.0,
+        80.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "panels",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        140,
+        1444,
+        128,
+        128
+      ],
+      "rgba_sha256": "d281ed765d6399e75d562835df89d37df98b4914d02e40d495731f1ac23929b6"
+    },
+    "panels/hud_selected": {
+      "region": "panels/hud_selected",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        256.0,
+        80.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        56,
+        56,
+        56,
+        56
+      ],
+      "role": "panels",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        64,
+        64,
+        64,
+        64
+      ],
+      "atlas_bounds_px": [
+        548,
+        1444,
+        128,
+        128
+      ],
+      "rgba_sha256": "c8e78daad832c1e69289950a33e10ae6ea60a7dd271c0fa6b4de642d76486ed2"
+    },
+    "sliders/track_normal": {
+      "region": "sliders/track_normal",
+      "size_px": [
+        56,
+        40
+      ],
+      "preferred_size_world": [
+        256.0,
+        24.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        20,
+        20,
+        12,
+        12
+      ],
+      "role": "sliders",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        28,
+        28,
+        20,
+        20
+      ],
+      "atlas_bounds_px": [
+        900,
+        1580,
+        56,
+        40
+      ],
+      "rgba_sha256": "f63727c517b05eefe0bd393b09dca6e47d5419ee6dfd2c511ce386a27bf4de49"
+    },
+    "sliders/track_pressed": {
+      "region": "sliders/track_pressed",
+      "size_px": [
+        56,
+        40
+      ],
+      "preferred_size_world": [
+        256.0,
+        24.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        20,
+        20,
+        12,
+        12
+      ],
+      "role": "sliders",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        28,
+        28,
+        20,
+        20
+      ],
+      "atlas_bounds_px": [
+        964,
+        1580,
+        56,
+        40
+      ],
+      "rgba_sha256": "2e9ec187ed8edc6ee4e44fab67e44dbd5da944a889bfb16f105ac897b74b266d"
+    },
+    "sliders/track_disabled": {
+      "region": "sliders/track_disabled",
+      "size_px": [
+        56,
+        40
+      ],
+      "preferred_size_world": [
+        256.0,
+        24.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        20,
+        20,
+        12,
+        12
+      ],
+      "role": "sliders",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        28,
+        28,
+        20,
+        20
+      ],
+      "atlas_bounds_px": [
+        836,
+        1580,
+        56,
+        40
+      ],
+      "rgba_sha256": "5d643da53430ee1e8c3f2c76fd8804cdc9609c9255b05e25f9e74cfd210a5db2"
+    },
+    "sliders/track_selected": {
+      "region": "sliders/track_selected",
+      "size_px": [
+        56,
+        40
+      ],
+      "preferred_size_world": [
+        256.0,
+        24.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        20,
+        20,
+        12,
+        12
+      ],
+      "role": "sliders",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        28,
+        28,
+        20,
+        20
+      ],
+      "atlas_bounds_px": [
+        1028,
+        1580,
+        56,
+        40
+      ],
+      "rgba_sha256": "87bc57e08706f5e5134e710896da892cdcd122838332290dc27114a14c646d95"
+    },
+    "sliders/fill_normal": {
+      "region": "sliders/fill_normal",
+      "size_px": [
+        36,
+        28
+      ],
+      "preferred_size_world": [
+        240.0,
+        12.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        10,
+        10,
+        6,
+        6
+      ],
+      "role": "sliders",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        18,
+        18,
+        14,
+        14
+      ],
+      "atlas_bounds_px": [
+        1136,
+        1580,
+        36,
+        28
+      ],
+      "rgba_sha256": "65b1f5d63ac039de96cf877f4df162d81d51b8f657b22f519c07f2a64d11f9c1"
+    },
+    "sliders/fill_pressed": {
+      "region": "sliders/fill_pressed",
+      "size_px": [
+        36,
+        28
+      ],
+      "preferred_size_world": [
+        240.0,
+        12.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        10,
+        10,
+        6,
+        6
+      ],
+      "role": "sliders",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        18,
+        18,
+        14,
+        14
+      ],
+      "atlas_bounds_px": [
+        1180,
+        1580,
+        36,
+        28
+      ],
+      "rgba_sha256": "1058fe266f877762a1397560d1b7d6dfc997f1152872ebcbfbbaf6bf46cc0643"
+    },
+    "sliders/fill_disabled": {
+      "region": "sliders/fill_disabled",
+      "size_px": [
+        36,
+        28
+      ],
+      "preferred_size_world": [
+        240.0,
+        12.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        10,
+        10,
+        6,
+        6
+      ],
+      "role": "sliders",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        18,
+        18,
+        14,
+        14
+      ],
+      "atlas_bounds_px": [
+        1092,
+        1580,
+        36,
+        28
+      ],
+      "rgba_sha256": "a75f36ffd4205bebef111ee5557d2f75e6ea3890a9e23d6411da6e22fecf2cb9"
+    },
+    "sliders/fill_selected": {
+      "region": "sliders/fill_selected",
+      "size_px": [
+        36,
+        28
+      ],
+      "preferred_size_world": [
+        240.0,
+        12.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": [
+        10,
+        10,
+        6,
+        6
+      ],
+      "role": "sliders",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": [
+        18,
+        18,
+        14,
+        14
+      ],
+      "atlas_bounds_px": [
+        1224,
+        1580,
+        36,
+        28
+      ],
+      "rgba_sha256": "ceee5f2db70fbe7a6f49681a3e7916a87eee0cf997c1c70fe5306f22f09c70d9"
+    },
+    "sliders/thumb_normal": {
+      "region": "sliders/thumb_normal",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        64.0,
+        64.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "sliders",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        956,
+        1444,
+        128,
+        128
+      ],
+      "rgba_sha256": "da3f3dd0f9087057bae62d253d68af04d2054805d03ed4c4af75708c6b0382fa"
+    },
+    "sliders/thumb_pressed": {
+      "region": "sliders/thumb_pressed",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        64.0,
+        64.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "sliders",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1092,
+        1444,
+        128,
+        128
+      ],
+      "rgba_sha256": "562999c8c1df0e980983bed113ca16c569e295e137acf8816bcfa9a973c60907"
+    },
+    "sliders/thumb_disabled": {
+      "region": "sliders/thumb_disabled",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        64.0,
+        64.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "sliders",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        820,
+        1444,
+        128,
+        128
+      ],
+      "rgba_sha256": "2171d745c60d7c7a096af96c64f607225db95357dd7c53e62054f406c335e9c7"
+    },
+    "sliders/thumb_selected": {
+      "region": "sliders/thumb_selected",
+      "size_px": [
+        128,
+        128
+      ],
+      "preferred_size_world": [
+        64.0,
+        64.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "sliders",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1228,
+        1444,
+        128,
+        128
+      ],
+      "rgba_sha256": "c587d611b11c6ffbf0c0a6a4ea031eb5d9b82b4127beedd591fee67c97285c8d"
+    },
+    "controls/thumb_normal": {
+      "region": "controls/thumb_normal",
+      "size_px": [
+        192,
+        192
+      ],
+      "preferred_size_world": [
+        96.0,
+        96.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1516,
+        916,
+        192,
+        192
+      ],
+      "rgba_sha256": "17f3402e0e81dbd878f40533b3ff3151ac9aca09c680c1b90b8cc4f8c0485e2b"
+    },
+    "controls/thumb_pressed": {
+      "region": "controls/thumb_pressed",
+      "size_px": [
+        192,
+        192
+      ],
+      "preferred_size_world": [
+        96.0,
+        96.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1716,
+        916,
+        192,
+        192
+      ],
+      "rgba_sha256": "8ca4ac49680ca42e300613a08b9f2f3d223a9d73171f646126d5d2d092572037"
+    },
+    "controls/thumb_disabled": {
+      "region": "controls/thumb_disabled",
+      "size_px": [
+        192,
+        192
+      ],
+      "preferred_size_world": [
+        96.0,
+        96.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1316,
+        916,
+        192,
+        192
+      ],
+      "rgba_sha256": "c77636cbbfc806ffcb5ea8a6ecfe2cba52c488e569058669b23fa9b8c1cfe411"
+    },
+    "controls/thumb_selected": {
+      "region": "controls/thumb_selected",
+      "size_px": [
+        192,
+        192
+      ],
+      "preferred_size_world": [
+        96.0,
+        96.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        4,
+        1244,
+        192,
+        192
+      ],
+      "rgba_sha256": "12866c7d755d23e49cfb7cdbbd259338f912f8021883ed284a95bcff174c969f"
+    },
+    "controls/movement_normal": {
+      "region": "controls/movement_normal",
+      "size_px": [
+        448,
+        448
+      ],
+      "preferred_size_world": [
+        224.0,
+        224.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        460,
+        4,
+        448,
+        448
+      ],
+      "rgba_sha256": "cdbe6dda4bf17c545f522dc1406e7d6074fe20dd02eb4afdd7b5868f306d0ed4"
+    },
+    "controls/movement_pressed": {
+      "region": "controls/movement_pressed",
+      "size_px": [
+        448,
+        448
+      ],
+      "preferred_size_world": [
+        224.0,
+        224.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        916,
+        4,
+        448,
+        448
+      ],
+      "rgba_sha256": "17b0d8f8c5ecfc920acf48d62d2772ca0c21f9c423c3a1f62fdc2ea4190ae0b6"
+    },
+    "controls/movement_disabled": {
+      "region": "controls/movement_disabled",
+      "size_px": [
+        448,
+        448
+      ],
+      "preferred_size_world": [
+        224.0,
+        224.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        4,
+        4,
+        448,
+        448
+      ],
+      "rgba_sha256": "96de5dd64b5a5f758c7734a77ffc171aeead27cb8e382229b7c9f5137bd2fc63"
+    },
+    "controls/movement_selected": {
+      "region": "controls/movement_selected",
+      "size_px": [
+        448,
+        448
+      ],
+      "preferred_size_world": [
+        224.0,
+        224.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1372,
+        4,
+        448,
+        448
+      ],
+      "rgba_sha256": "e475286e545b5cb288730f21b3cadc4113f4d8dd737dd7d968763829926396bc"
+    },
+    "controls/fire_normal": {
+      "region": "controls/fire_normal",
+      "size_px": [
+        320,
+        320
+      ],
+      "preferred_size_world": [
+        160.0,
+        160.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        332,
+        916,
+        320,
+        320
+      ],
+      "rgba_sha256": "fcc8701419961b03cff251c17aa2ae4855644cbc4da2a873b969060926cd0746"
+    },
+    "controls/fire_pressed": {
+      "region": "controls/fire_pressed",
+      "size_px": [
+        320,
+        320
+      ],
+      "preferred_size_world": [
+        160.0,
+        160.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        660,
+        916,
+        320,
+        320
+      ],
+      "rgba_sha256": "bca60b618f2089fc84222aafea25da7225a878adbf87bc2d119b8e34e84bb707"
+    },
+    "controls/fire_disabled": {
+      "region": "controls/fire_disabled",
+      "size_px": [
+        320,
+        320
+      ],
+      "preferred_size_world": [
+        160.0,
+        160.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        4,
+        916,
+        320,
+        320
+      ],
+      "rgba_sha256": "5dec738c9e4b6c50769acb944dec9865b01308dd2b69c2ad9cf9717c4ca2ea36"
+    },
+    "controls/fire_selected": {
+      "region": "controls/fire_selected",
+      "size_px": [
+        320,
+        320
+      ],
+      "preferred_size_world": [
+        160.0,
+        160.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        988,
+        916,
+        320,
+        320
+      ],
+      "rgba_sha256": "49300788d650d4023bbf02d04a09d0120c996877b5ce3a45b6fb4c983de6d62e"
+    },
+    "controls/turret_normal": {
+      "region": "controls/turret_normal",
+      "size_px": [
+        448,
+        448
+      ],
+      "preferred_size_world": [
+        224.0,
+        224.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "normal",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        460,
+        460,
+        448,
+        448
+      ],
+      "rgba_sha256": "7e6d13f101727ffd938ef6003b191b36e1dc3df9e661ce2d36ec521a24476663"
+    },
+    "controls/turret_pressed": {
+      "region": "controls/turret_pressed",
+      "size_px": [
+        448,
+        448
+      ],
+      "preferred_size_world": [
+        224.0,
+        224.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "pressed",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        916,
+        460,
+        448,
+        448
+      ],
+      "rgba_sha256": "415396c1e1a773efe2affed432bfcf8f997104e8c5c7a2ee38050c8cc6ba073e"
+    },
+    "controls/turret_disabled": {
+      "region": "controls/turret_disabled",
+      "size_px": [
+        448,
+        448
+      ],
+      "preferred_size_world": [
+        224.0,
+        224.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "disabled",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        4,
+        460,
+        448,
+        448
+      ],
+      "rgba_sha256": "f52502a85989d70044d1467c0b0346c7deb91abab7f686ac3190fc4691972490"
+    },
+    "controls/turret_selected": {
+      "region": "controls/turret_selected",
+      "size_px": [
+        448,
+        448
+      ],
+      "preferred_size_world": [
+        224.0,
+        224.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "controls",
+      "state": "selected",
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1372,
+        460,
+        448,
+        448
+      ],
+      "rgba_sha256": "c06eb1d0bb66e345da94545e121162a236e8bb5dbabe187dd962b458ba294e6c"
+    },
+    "icons/gear": {
+      "region": "icons/gear",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1676,
+        1444,
+        96,
+        96
+      ],
+      "rgba_sha256": "31c898e9dda817b4fc0c8f56a354510f53d42e3b68d5b61bacc0b4130eebf68f"
+    },
+    "icons/plus": {
+      "region": "icons/plus",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        212,
+        1580,
+        96,
+        96
+      ],
+      "rgba_sha256": "4457b40981066ec127d917d6767c233973fde76baa96a8bf453f2da4c6b89b94"
+    },
+    "icons/minus": {
+      "region": "icons/minus",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        4,
+        1580,
+        96,
+        96
+      ],
+      "rgba_sha256": "602576daad9a6b4c50eac9fe3da93900ebf848f9c470b4794e1dffb20c4b8fd6"
+    },
+    "icons/pause": {
+      "region": "icons/pause",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 2,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        108,
+        1580,
+        96,
+        96
+      ],
+      "rgba_sha256": "7fe18f3e88fdf46f9d8e70f3d356a462ecf03c8a7fc5c24067ef4b0ae3b81681"
+    },
+    "icons/up": {
+      "region": "icons/up",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        732,
+        1580,
+        96,
+        96
+      ],
+      "rgba_sha256": "7d5a4f0b58384e42ef4d97acf7951fedbeb5a02b7c89587ae6fdf9f59cc68156"
+    },
+    "icons/left": {
+      "region": "icons/left",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1780,
+        1444,
+        96,
+        96
+      ],
+      "rgba_sha256": "4cf8323305b9112c37b64cc6ff38a3ec209cc4dc13d784c8c0d88478bbbbd252"
+    },
+    "icons/right": {
+      "region": "icons/right",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        420,
+        1580,
+        96,
+        96
+      ],
+      "rgba_sha256": "cff1106d8b1830788f8d1a8b542aa6d0875ed61ae2366efcb922969631c8f945"
+    },
+    "icons/down": {
+      "region": "icons/down",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1572,
+        1444,
+        96,
+        96
+      ],
+      "rgba_sha256": "3d5b0138042f0751481df7074992685280bb054a77dd43c897cec7c2428902fc"
+    },
+    "icons/speaker": {
+      "region": "icons/speaker",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 3,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        524,
+        1580,
+        96,
+        96
+      ],
+      "rgba_sha256": "b91500b6aa411f3797b709cb161768cc915ffc000e402b11e2ae7a3cd178b96f"
+    },
+    "icons/close": {
+      "region": "icons/close",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1364,
+        1444,
+        96,
+        96
+      ],
+      "rgba_sha256": "b3fe92cdf31fb938006a4bfa47b8876608e1d1d22ee5146ddd10818ce331565e"
+    },
+    "icons/lock": {
+      "region": "icons/lock",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1884,
+        1444,
+        96,
+        96
+      ],
+      "rgba_sha256": "af73e871bbff496f344ef6c002996ea4bc7ace03e02303c5df4086904451c888"
+    },
+    "icons/crown": {
+      "region": "icons/crown",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        1468,
+        1444,
+        96,
+        96
+      ],
+      "rgba_sha256": "148037765a1e7bb2607dc2fe6e625bc58e7633810b1810bead88278be0dac809"
+    },
+    "icons/reticle": {
+      "region": "icons/reticle",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 5,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        316,
+        1580,
+        96,
+        96
+      ],
+      "rgba_sha256": "6110b5ada3396951843b7a4dd7de5bf53cb60b9c7398ee182d2f427cce3157d7"
+    },
+    "icons/tank": {
+      "region": "icons/tank",
+      "size_px": [
+        96,
+        96
+      ],
+      "preferred_size_world": [
+        48.0,
+        48.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        628,
+        1580,
+        96,
+        96
+      ],
+      "rgba_sha256": "6baa0a610b261de1bcb061359fa463ba77a94abce8c07f336429dc558291e46d"
+    },
+    "icons/hull": {
+      "region": "icons/hull",
+      "size_px": [
+        136,
+        136
+      ],
+      "preferred_size_world": [
+        68.0,
+        68.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        204,
+        1244,
+        136,
+        136
+      ],
+      "rgba_sha256": "f08af8c90c7df79dbdd052731bf2bc9c112845756d78e546dcffbf733a0478f5"
+    },
+    "icons/turret": {
+      "region": "icons/turret",
+      "size_px": [
+        136,
+        136
+      ],
+      "preferred_size_world": [
+        68.0,
+        68.0
+      ],
+      "color_mode": "RGBA",
+      "nine_patch_splits_px": null,
+      "role": "icons",
+      "state": null,
+      "max_alpha_components": 1,
+      "content_padding_px": null,
+      "atlas_bounds_px": [
+        348,
+        1244,
+        136,
+        136
+      ],
+      "rgba_sha256": "f15486b32005fe237178388bba82e55027d198c55148f003489d7949eaccbae9"
+    },
+    "controls/reload_collar": {
+      "region": "controls/reload_collar",
+      "atlas_page": "reload.png",
+      "size_px": [
+        384,
+        384
+      ],
+      "atlas_bounds_px": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "nine_patch_splits_px": null,
+      "color_mode": "RGBA",
+      "role": "controls",
+      "state": "normal",
+      "max_alpha_components": 100,
+      "rgba_sha256": "24af5458c4c0b9e17df8eccd79ac5fb7166dfd7afb1a96c80a6dc4e999254f41"
+    },
+    "reload/shell": {
+      "region": "reload/shell",
+      "atlas_page": "breech.png",
+      "size_px": [
+        66,
+        218
+      ],
+      "atlas_bounds_px": [
+        95,
+        22,
+        66,
+        218
+      ],
+      "nine_patch_splits_px": null,
+      "color_mode": "RGBA",
+      "role": "controls",
+      "state": "normal",
+      "max_alpha_components": 100,
+      "rgba_sha256": "3940bb8c825ca610ca8a5110326456d8aa99ce987e6ce05299fde1b830f7d6dd"
+    },
+    "reload/breech": {
+      "region": "reload/breech",
+      "atlas_page": "breech.png",
+      "size_px": [
+        256,
+        256
+      ],
+      "atlas_bounds_px": [
+        256,
+        0,
+        256,
+        256
+      ],
+      "nine_patch_splits_px": null,
+      "color_mode": "RGBA",
+      "role": "controls",
+      "state": "normal",
+      "max_alpha_components": 100,
+      "rgba_sha256": "a162d49348610ea5e2d9f779aecd037c1dd41263466154e5f28a640d91e7dd3f"
+    },
+    "reload/lamp_off": {
+      "region": "reload/lamp_off",
+      "atlas_page": "breech.png",
+      "size_px": [
+        256,
+        256
+      ],
+      "atlas_bounds_px": [
+        0,
+        256,
+        256,
+        256
+      ],
+      "nine_patch_splits_px": null,
+      "color_mode": "RGBA",
+      "role": "controls",
+      "state": "normal",
+      "max_alpha_components": 100,
+      "rgba_sha256": "6da4a7433f9c5c80e8178c132b7debcb67b49f5f2a61fe77bb5f011fca332f3c"
+    },
+    "reload/lamp_on": {
+      "region": "reload/lamp_on",
+      "atlas_page": "breech.png",
+      "size_px": [
+        256,
+        256
+      ],
+      "atlas_bounds_px": [
+        256,
+        256,
+        256,
+        256
+      ],
+      "nine_patch_splits_px": null,
+      "color_mode": "RGBA",
+      "role": "controls",
+      "state": "normal",
+      "max_alpha_components": 100,
+      "rgba_sha256": "0f10c88cce6b0cef6e0d21169d1e6b9a4dadf9275979ebe1c77f8ca426ff1410"
+    }
+  },
+  "widgets": {
+    "bonus": {
+      "background": "panels/hud_normal",
+      "track": "sliders/track_normal",
+      "fill": "sliders/fill_normal",
+      "icon": "existing bonusSprites",
+      "text_layout": "fixed font scale, word wrap; nine-patch width and height follow content within sidebar"
+    },
+    "level": {
+      "backgrounds": {
+        "normal": "cards/level_normal",
+        "pressed": "cards/level_pressed",
+        "disabled": "cards/level_disabled",
+        "selected": "cards/level_selected"
+      },
+      "selected_badge": "icons/crown",
+      "locked_badge": "icons/lock",
+      "thumbnail": "runtime game image; no badge baked into background"
+    },
+    "fire": {
+      "states": {
+        "normal": "controls/fire_normal",
+        "pressed": "controls/fire_pressed",
+        "disabled": "controls/fire_disabled",
+        "selected": "controls/fire_selected"
+      },
+      "reload_ring": "runtime sector, unchanged progress"
+    },
+    "movement": {
+      "states": {
+        "normal": "controls/movement_normal",
+        "pressed": "controls/movement_pressed",
+        "disabled": "controls/movement_disabled",
+        "selected": "controls/movement_selected"
+      },
+      "thumb_states": {
+        "normal": "controls/thumb_normal",
+        "pressed": "controls/thumb_pressed",
+        "disabled": "controls/thumb_disabled",
+        "selected": "controls/thumb_selected"
+      }
+    },
+    "turret": {
+      "states": {
+        "normal": "controls/turret_normal",
+        "pressed": "controls/turret_pressed",
+        "disabled": "controls/turret_disabled",
+        "selected": "controls/turret_selected"
+      },
+      "hull": "icons/hull",
+      "turret": "icons/turret",
+      "rotation": "separate chassis and turret angles"
+    },
+    "selector": {
+      "backgrounds": {
+        "normal": "buttons/control_normal",
+        "pressed": "buttons/control_pressed",
+        "disabled": "buttons/control_disabled",
+        "selected": "buttons/control_selected"
+      },
+      "left": "icons/left",
+      "right": "icons/right"
+    }
+  },
+  "interaction_note": "Hit areas remain controlled by existing widgets. Sprite padding never shrinks hit geometry.",
+  "atlas": "armor.atlas",
+  "atlas_page": "armor.png",
+  "alpha_component_threshold": 96
+}
